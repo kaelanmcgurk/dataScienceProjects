@@ -16,5 +16,3 @@ colDictionary = {'Total Value': float,
 # %%
 MollyRun = MollyRun.astype(colDictionary)
 # %%
-print('Hello World')
-# %%

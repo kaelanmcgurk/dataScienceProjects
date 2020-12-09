@@ -32,7 +32,8 @@ MollyRun = MollyRun.astype(colDictionary)
 MollyRun = (MollyRun
 .rename(columns = {"Total Value": "TotalValue",
 "Natural Value": "NaturalValue",
-"Damage Dealt": "DamageDealt"}))
+"Damage Dealt": "DamageDealt",
+"Type of Roll": "TypeOfRoll"}))
 
 # %%
 MollyRun = MollyRun.assign(DamageDealt = lambda x: x['DamageDealt'].str.extract('(\d+)'))
@@ -40,4 +41,7 @@ MollyRun = MollyRun.assign(DamageDealt = lambda x: x['DamageDealt'].str.extract(
 
 # %%
 MollyRun = MollyRun.astype({'DamageDealt':float})
+# %%
+# Create the bar chart for damage output
+CharacterDamage = MollyRun.query("TypeOfRoll == 'Damage'")
 # %%

@@ -1,0 +1,190 @@
+Episode,Time,Character,Type of Roll,Total Value,Natural Value,Crit?,Damage,Kill #,Notes
+83,0:13:05,Pike,Stealth,Nat20,20,,,,Disregarded due to disadvantage
+83,0:13:05,Pike,Stealth,4,4,,,,With disadvantage
+83,0:13:33,Scanlan,Stealth,4,2,,,,
+83,0:13:36,Grog,Stealth,13,11,,,,
+83,0:13:39,Percy,Stealth,Nat1,1,,,,
+83,0:13:44,Keyleth,Stealth,10,3,,,,
+83,0:13:55,Kerrek,Steath,Nat20,20,,,,
+83,0:16:53,Vax'ildan,Perception,22,10,,,,Possible RT use
+83,0:22:50,Trinket,Stealth,19,19,,,,
+83,0:36:51,Vax'ildan,Initiative,25,20,,,,
+83,0:36:52,Vex'ahlia,Initiative,24,19,,,,
+83,0:36:53,Percy,Initiative,22,11,,,,
+83,0:36:54,Scanlan,Initiative,21,19,,,,
+83,0:37:35,Grog,Initiative,Unknown,Unknown,,,,Disregarded due to advantage
+83,0:37:35,Grog,Initiative,16,14,,,,With advantage
+83,0:37:31,Pike,Initiative,8,8,,,,
+83,0:37:35,Keyleth,Initiative,4,2,,,,
+83,0:39:27,Vax'ildan,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+83,0:39:27,Vax'ildan,Attack,21,13,,,,Whisper w/ SS with advantage
+83,0:39:39,Vax'ildan,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+83,0:39:39,Vax'ildan,Attack,18,12,,,,Dagger of Venom w/ SS with advantage
+83,0:39:46,Vax'ildan,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+83,0:39:46,Vax'ildan,Attack,14,6,,,,Whisper w/ SS with advantage
+83,0:40:28,Vax'ildan,Damage,32,,,42 to Egg 1,,
+83,0:41:13,Vax'ildan,Damage,17,,,17 to Egg 1,1,
+83,0:42:13,Vex'ahlia,Perception,30,17,,,,
+83,0:44:29,Percy,Attack,22,13,,,,BN SS
+83,0:44:40,Percy,Damage,25,,,25 to Egg 2,,
+83,0:45:33,Percy,Attack,16,7,,,,BN SS
+83,0:46:34,Percy,Attack,Unknown,Unknown,,,,BN SS
+83,0:46:34,Percy,Attack,32,18,,,,BN
+83,0:46:55,Percy,Damage,22,,,22 to Egg 2,1,
+83,0:48:02,Percy,Investigation,23,18,,,,
+83,0:53:02,Grog,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+83,0:53:02,Grog,Attack,Nat20,20,,,,Dwarven Thrower 2H Reckless
+83,0:55:14,Grog,Athletics,18,4,,,,
+83,0:55:45,Grog,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+83,0:55:45,Grog,Attack,21,6,,,,Dwarven Thrower Reckless (thrown)
+83,0:56:14,Grog,Damage,26,,,26 to already-dead Egg/baby dragon 2,,
+83,0:57:45,Grog,Perception,5,5,,,,
+83,0:59:53,Grog,Constitution Save,Nat3,3,,,,Includes -2 from deck of many things card
+83,1:00:00,Grog,Constitution Save,Nat13,13,,,,Includes -2 from deck of many things card
+83,1:01:44,Kerrek,Attack,25,16,,,,Dusk Warhammer w/ Divine Smite (1st)
+83,1:03:06,Kerrek,Damage,31,,,31 radiant to Wraith 1,,
+83,1:04:21,Kerrek,Attack,17,8,,,,Dusk Warhammer w/ Divine Smite (1st)
+83,1:04:55,Kerrek,Damage,35,,,35 radiant to wraith 1,,
+83,1:09:58,Kerrek,Perception,11,8,,,,
+83,1:13:11,Keyleth,Perception,21,10,,,,
+83,1:15:41,Vax'ildan,Attack,31,18,,,,Whisper SA
+83,1:15:57,Vax'ildan,Attack,18,7,,,,Dagger of Venom
+83,1:16:33,Vax'ildan,Damage,41,,,41 to Wraith 1,1,
+83,1:16:53,Vax'ildan,Attack,17,4,,,,Whisper
+83,1:17:11,Vax'ildan,Damage,18,,,18 to Wraith 2,,
+83,1:17:30,Vax'ildan,Damage,2,,,2 to Wraith 2,,
+83,1:18:32,Vex'ahlia,Perception,31,18,,,,
+83,1:19:42,Vex'ahlia,Attack,32,17,,,,Disregarded due to disadvantage
+83,1:19:42,Vex'ahlia,Attack,26,11,,,,Fenthras Bramble Shot w/ Blazing Bowstring with disadvantage
+83,1:20:28,Vex'ahlia,Damage,43,,,43 (28 Piercing + 2 Lightning + 6 HM + 9 BB) to Raishan,,
+83,1:21:39,Vex'ahlia,Attack,26,11,,,,Fenthras Sleep arrow w/ Blazing Bowstring
+83,1:21:49,Vex'ahlia,Damage,18,,,18 (14 Piercing + 1 Lightning + 4 SA) to Raishan,,
+83,1:22:40,Vex'ahlia,Sleep Arrow,18,,,,,
+83,1:23:47,Percy,Perception,25,17,,,,
+83,1:24:40,Percy,Attack,21,7,,,,Bad News
+83,1:24:57,Percy,Attack,29,15,,,,Bad News w/ Cabal's Ruin
+83,1:26:45,Percy,Damage,54,,,54 (23 Piercing + 6 Necrotic + 25 Lightning) to Raishan,,
+83,1:30:04,Vax'ildan,Dexterity Save,Nat20,20,,,,Evasion
+83,1:30:53,Scanlan,Dexterity Save,8,8,,118 Fire/Bludgeoning to Scanlan,,
+83,1:31:38,Percy,Dexterity Save,Unknown,Unknown,,,,Disregarded due to Indomitable
+83,1:31:38,Percy,Dexterity Save,19,13,,59 (118/2) Fire/Bludgeoning to Percy,,Halved by Cabal's Ruin. Cabal's Ruin gains 9 charges and awakens
+83,1:32:10,Keyleth,Dexterity Save,24,17,,59 (118/2) Fire/Budgeoning to Keyleth,,
+83,1:33:17,Kerrek,Dexterity Save,6,3,,118 Fire/Bludgeoning to Kerrek (unconscious),,Trinket returns to Raven's Slumber
+83,1:33:44,Vex'ahlia,Dexterity Save,22,12,,59 (118/2) Fire.Bludgeoning to Vex'ahlia,,
+83,1:33:53,Trinket,Dexterity Save,3,3,,85 Fire/Bludgeoning to Trinket (unconscious),,
+83,1:34:44,Grog,Dexterity Save,11,9,,85 Fire/Bludgeoning to Grog,,
+83,1:35:02,Pike,Dexterity Save,9,9,,87 Fire/Bludgeoning to Pike,,
+83,1:37:56,Percy,Constitution Save,16,9,,,,Hex fades
+83,1:38:32,Pike,Constitution Save,5,4,,,,Beacon of Hope fades
+83,1:38:30,Vex'ahlia,Constitution Save,Nat1,1,,,,Hunter's Mark fades
+83,1:42:24,Scanlan,Cutting Words,2,,,,,
+83,1:46:49,Pike,Dexterity Save,14,14,,"72 Force to Pike, Pike brought to 0",,"PotD activates, saves Pike from death"
+83,1:49:29,Grog,Athletics,22,8,,,,
+83,1:50:02,Grog,Perception,16,16,,,,
+83,1:50:23,Grog,Attack,21,6,,,,Dwarven Thrower Reckless (thrown)
+83,1:50:31,Grog,Attack,31,16,,,,Dwarven Thrower Reckless (thrown)
+83,1:50:41,Grog,Damage,20,,,20 Bludgeoning to Raishan,,
+83,1:51:15,Grog,Attack,28,13,,,,Dwarven Thrower Reckless (thrown)
+83,1:51:27,Grog,Damage,22,,,22 Bludgeoning to Raishan,,
+83,1:52:49,Keyleth,Constitution Save,13,6,,42 Cold to Keyleth,,
+83,1:53:01,Vax'ildan,Constitution Save,16,16,,42 Cold to Vax'ildan,,
+83,1:53:05,Vex'ahlia,Constitution Save,12,10,,42 Cold to Vex'ahlia,,
+83,1:53:11,Grog,Constitution Save,7,-1,,42 Cold to Grog,,
+83,1:53:14,Scanlan,Constitution Save,15,13,,42 Cold to Scanlan (unconscious),,
+83,1:53:21,Pike,Constitution Save,20,19,,42 Cold to Pike (unconscious),,
+83,1:54:25,Kerrek,Death Save,7,7,,,,First failed save
+83,1:56:02,Pike,Death Save,5,5,,,,First failed save
+83,1:59:15,Keyleth,Damage,34,,,17 (34/2) Fire to Raishan,,
+83,2:00:44,Keyleth,Healing,9,,,,,"Healing Word (1st), Pike heals 9 points, is conscious"
+83,2:03:34,Vex'ahlia,Healing,15,,,,,"Cure Wounds (3rd), Allura healls 15 points, is conscious"
+83,2:04:26,Vex'ahlia,Healing,8,,,,,"Potion of Common Healing, Vex'ahlia heals 8 points"
+83,2:05:08,Vex'ahlia,Stealth,16,6,,,,
+83,2:05:16,Percy,Attack,Nat20,20,,,,Animus Deadeye w/ Cabal's Ruin (3 charges)
+83,2:06:16,Percy,Damage,38,,,38 (6 psychic + 18 piercing + 14 lightning) to Raishan,,
+83,2:07:28,Percy,Attack,27,13,,,,Animus Deadeye w/ Cabal's Ruin (3 charges)
+83,2:07:39,Percy,Damage,29,,,29 (17 piercing + 2 psychic + 10 lightning) to Raishan,,
+83,2:08:07,Percy,Attack,19,5,,,,Animus Deadeye
+83,2:08:25,Percy,Healing,16,,,,,"Second Wind, Percy heals 16 points"
+83,2:11:25,Scanlan,Cutting Words,6,,,,,
+83,2:13:08,Scanlan,Death Save,3,3,,,,"Scanlan fails 3rd death save, Scanlan is dead"
+83,2:13:56,Grog,Perception,3,3,,,,
+83,2:14:32,Grog,Attack,27,12,,,,Dwarven Thrower Reckless (thrown)
+83,2:15:03,Grog,Damage,23,,,23 Bludgeoning to Raishan,,
+83,2:15:44,Grog,Attack,Nat1,1,,,,Dwarven Thrower Reckless (thrown)
+83,2:16:01,Grog,Attack,31,16,,,,Dwarven Thrower Reckless (thrown)
+83,2:16:14,Grog,Damage,25,,,25 Bludgeoning to Raishan,,
+83,2:19:14,Vax'ildan,Dexterity Save,27,17,,,,Evasion
+83,2:19:20,Vex'ahlia,Dexterity Save,Nat1,1,,13 Bludgeoning to Vex'ahlia,,Vex'ahlia is prone
+83,2:19:20,Grog,Dexterity Save,Unknown,Unknown,,,,Disregarded due to advantage
+83,2:19:20,Grog,Dexterity Save,17,15,,6 (13/2) Bludgeoning to Grog,,
+83,2:20:29,Vax'ildan,Attack,Nat6,6,,,,Disregarded due to Luck
+83,2:20:29,Vax'ildan,Attack,31,18,,,,Whisper AoO SA
+83,2:20:53,Vax'ildan,Damage,25,,,25 Piercing/Psychic to Raishan,,
+83,2:25:48,Pike,Wisdom,9,4,,,,"Revivify Fails, Scanlan is still dead"
+83,2:27:34,Pike,Healing,11,,,,,"Healing Word (2nd), Pike heals 11 points"
+83,2:31:26,Keyleth,Healing,Unknown,,,,,"Keyleth heals unknown, is at 28 HP"
+83,2:32:24,Vax'ildan,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+83,2:32:24,Vax'ildan,Attack,32,19,,,,Whisper with Divine Smite with advantage
+83,2:32:53,Vax'ildan,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+83,2:32:53,Vax'ildan,Attack,27,16,,,,Dagger of Venom with advantage
+83,2:33:31,Vax'ildan,Damage,53,,,53 to Raishan,,
+83,2:33:45,Vax'ildan,Damage,8,,,8 to Raishan,,
+83,2:34:08,Vax'ildan,Acrobatics,25,10,,,,Possible RT use
+83,2:34:49,Keyleth,Damage,13,,,13 to Raishan,,Feeblemind
+83,2:36:47,Vex'ahlia,Attack,17,3,,,,Fenthras
+83,2:26:59,Vex'ahlia,Attack,18,4,,,,Fenthras
+83,2:39:07,Percy,Attack,19,7,,,,Dragonslayer Longsword
+83,2:39:18,Percy,Attack,22,10,,,,Dragonslayer Longsword with Cabal's Ruin
+83,2:39:24,Percy,Attack,28,16,,,,Dragonslayer Longsword
+83,2:39:43,Percy,Damage,32,,,32 (22 Slashing + 10 Lightning) to Raishan,,
+83,2:40:05,Percy,Damage,21,,,21 Slashing to Raishan,,
+83,2:42:47,Kerrek,Attack,20,12,,,,Dusk Warhammer
+83,2:42:55,Kerrek,Attack,Unknown,Unknown,,,,Dusk Warhammer
+83,2:45:38,Grog,Athletics,Nat20,20,,,,
+83,2:46:14,Grog,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+83,2:46:14,Grog,Attack,30,15,,,,Dwarven Thrower Reckless (thrown)
+83,2:46:24,Grog,Damage,23,,,23 to Raishan,,
+83,2:46:48,Grog,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+83,2:46:48,Grog,Attack,24,9,,,,Dwarven Thrower Reckless (thrown)
+83,2:47:01,Grog,Damage,23,,,23 to Raishan,,
+83,2:47:20,Grog,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+83,2:47:20,Grog,Attack,27,12,,,,Dwarven Thrower Reckless (thrown)
+83,2:47:34,Grog,Damage,26,,,26 to Raishan,,
+83,2:48:45,Kerrek,Attack,26,18,,,,Dusk Warhammer with Divine Smite (2nd)
+83,2:48:52,Kerrek,Attack,20,12,,,,Dusk Warhammer
+83,2:49:51,Kerrek,Damage,28,,,28 to Raishan,1,HDYWTDT
+83,3:09:37,Pike,Wisdom,11,6,,,,"Revivify, Percy is alive"
+83,3:16:29,Keyleth,Investigation,7,5,,,,
+83,3:17:23,Vex'ahlia,Healing,24,,,,,"Cure Wounds (3rd), Percy heals 24 points"
+83,3:17:01,Vax'ildan,Investigation,Nat1,1,,,,Disregarded due to Luck
+83,3:17:22,Vax'ildan,Investigation,Nat1,1,,,,With Luck
+83,3:17:22,Grog,Strength,Unknown,Unknown,,,,Disregarded due to advantage
+83,3:17:22,Grog,Strength,26,19,,,,With advantage
+83,3:22:01,Kerrek,Constitution Save,18,14,,,,"Against Symbol (Pain), Kerrek is locked in pain"
+83,3:28:42,Keyleth,Damage,27,,,54 (27 to FS 1 + 27 to FS 2) Radiant,,Sunbeam
+83,3:30:00,Percy,Attack,16,2,,,,Animus Sharpshooter Piercing
+83,3:30:00,Percy,Attack,Unknown,Unknown,,,,Animus Sharpshooter Piercing
+83,3:30:00,Percy,Attack,Unknown,Unknown,,,,Animus Sharpshooter Piercing
+83,3:30:34,Percy,Damage,32,,,"38 {19 [14 (27/2) +5 Psychic] to FS1 + 
+19 [14 (27/2) +5 Psychic] to FS2}",,
+83,3:30:52,Percy,Damage,32,,,"36 {18 [14 (28/2) + 4 Psychic] to FS1 + 
+18 [14 (28/2) + 4 Psychic to FS2}",2,
+83,3:31:24,Percy,Damage,21,,,"22 {11 [10 (20/2) + 1 Psychic] to FS 3 + 
+11[10 (10/2) + 1 Psychic to FS4}",,
+83,3:31:48,Pike,Damage,22,,,22 Radiant to FS3,,Sacred Flame
+83,3:32:28,Vex'ahlia,Attack,Unknown,Unknown,,,,Fenthras
+83,3:32:34,Vex'ahlia,Attack,Unknown,Unknown,,,,Fenthras
+83,3:32:58,Vex'ahlia,Damage,17,,,17 to FS4,,
+83,3:34:38,Kerrek,Attack,19,11,,,,Dusk Warhammer with Divine Smite
+83,3:34:49,Kerrek,Attack,18,10,,,,Dusk Warhammer with Divine Smite
+83,3:35:20,Kerrek,Damage,25,,,25 Radiant to FS4,,
+83,3:35:48,Kerrek,Damage,31,,,31 Radiant to FS4,1,
+83,3:39:15,Keyleth,Arcana,Unknown,Unknown,,,,
+83,3:39:21,Percy,Arcana,22,17,,,,
+83,3:42:18,Keyleth,Constitution Save,22,15,,,,Concentration
+83,3:46:08,Keyleth,Perception,Nat20,20,,,,
+83,3:48:48,Vex'ahlia,Athletics,13,10,,,,
+83,3:53:37,Keyleth,Constitution Save,16,9,,,,Concentration with advantage
+83,3:53:37,Keyleth,Constitution Save,Unknown,Unknown,,,,Disregarded due to advantage
+83,4:09:43,Vex'ahlia,Investigation,23,16,,,,
+83,4:13:50,Vex'ahlia,Persuasion,25,17,,,,

@@ -1,0 +1,221 @@
+Episode,Time,Character,Type of Roll,Total Value,Natural Value,Crit?,Damage,Kill #,Notes
+79,0:17:26,Grog,Initiative,14,12,,,,
+79,0:17:38,Vex'ahlia,Initiative,13,6,,,,
+79,0:17:45,Vax'ildan,Initiative,12,7,,,,
+79,0:17:45,Pike,Initiative,11,9,,,,
+79,0:17:54,Keyleth,Initiative,17,15,,,,
+79,0:17:58,Percy,Initiative,25,17,,,,
+79,0:18:05,Scanlan,Initiative,8,6,,,,
+79,0:21:04,Percy,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+79,0:21:04,Percy,Attack,24,16,,,,BN SS with Deadeye
+79,0:21:33,Percy,Damage,42,,,42 (37 Piercing + 5 Necrotic) to Thordak,,
+79,0:21:58,Percy,Attack,18,10,,,,BN SS
+79,0:28:02,Keyleth,Damage,35,,,17 Bludgeoning to Thordak,,
+79,0:34:34,Percy,Dexterity Save,Nat1,1,,,,Disregarded due to Indomitable
+79,0:34:34,Percy,Dexterity Save,18,12,,47 Fire to Percy,,With Indomitable
+79,0:35:33,Scanlan,Cutting Words,5,,,,,
+79,0:36:02,Vex'ahlia,Dexterity Save,28,18,,23 Fire to Vex'ahlia,,
+79,0:36:03,Grog,Dexterity Save,17,15,,23 Fire to Grog,,
+79,0:36:07,Vax'ildan,Dexterity Save,24,14,,,,
+79,0:36:25,Scanlan,Dexterity Save,21,19,,47 Fire to Scanlan,,
+79,0:36:29,Trinket,Dexterity Save,Unknown,Unknown,,94 Fire to Trinket,,"Trinket is unconscious, returns to necklace"
+79,0:36:29,Pike,Dexterity Save,Unknown,Unknown,,47 Fire to Pike,,
+79,0:39:13,Grog,Attack,Nat1,1,,,,Disregarded due to advantage
+79,0:39:13,Grog,Attack,19,10,,,,Bloodaxe Reckless GWM
+79,0:39:27,Grog,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+79,0:39:27,Grog,Attack,25,16,,,,Bloodaxe Reckless GWM
+79,0:39:45,Grog,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+79,0:39:45,Grog,Attack,21,12,,,,Bloodaxe Reckless GWM
+79,0:40:15,Grog,Damage,36,,,36 (34 Slashing + 2 Necrotic) to Thordak,,
+79,0:42:33,Vex'ahlia,Attack,30,15,,,,Fenthras Bramble Shot
+79,0:42:37,Percy,Constitution Save,10,3,,,,Hex Fades
+79,0:43:37,Vex'ahlia,Damage,48,,,"48 (15 Piercing + 2 Lightning + 12 (HM + SA) + 
+17 Bramble + 2 Dragon) to Thordak",,
+79,0:44:46,Vex'ahlia,Attack,27,12,,,,Fenthras Poison Arrow
+79,0:45:50,Vex'ahlia,Damage,24,,,24 (16 Piercing + 4 Lightning + 2 HM + 2 Dragon) to Thordak,,
+79,0:55:01,Scanlan,Spell Attack,18,7,,,,Bigby's Clenched Fist
+79,0:58:23,Percy,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+79,0:58:23,Percy,Attack,Nat20,20,,,,BN SS with Deadeye
+79,0:59:01,Percy,Damage,24,,,24 Piercing to Thordak,,
+79,0:59:27,Percy,Attack,26,Unknown,,,,BN SS with inspiration
+79,0:59:43,Percy,Damage,30,,,30 Piercing to Thordak,,
+79,1:03:57,Keyleth,Spell Attack,28,16,,,,Contagion (Slimy Doom)
+79,1:06:56,Keyleth,Dexterity Save,12,9,,16 (13 Bludgeoning + 3 (6/2) Fire) to Keyleth,,
+79,1:06:56,Grog,Dexterity Save,Unknown,Unknown,,,,Disregarded due to advantage
+79,1:06:56,Grog,Dexterity Save,Nat20,20,,,,With advantage
+79,1:08:02,Grog,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+79,1:08:02,Grog,Attack,Nat20,20,,,,Bloodaxe Reckless
+79,1:08:40,Grog,Damage,26,,,26 (24 Slashing + 2 Necrotic) to Thordak,,
+79,1:11:35,Vax'ildan,Dexterity Save,Unknown,Unknown,,,,
+79,1:11:35,Vax'ildan,Dexterity Save,23,13,,,,
+79,1:11:39,Vex'ahlia,Dexterity Save,Unknown,Unknown,,,,
+79,1:11:39,Vex'ahlia,Dexterity Save,27,17,,,,
+79,1:15:38,Grog,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+79,1:15:38,Grog,Attack,19,10,,,,Bloodaxe Reckless GWM
+79,1:15:56,Grog,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+79,1:15:56,Grog,Attack,26,17,,,,Bloodaxe Reckless GWM
+79,1:16:03,Grog,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+79,1:16:03,Grog,Attack,22,13,,,,Bloodaxe Reckless GWM
+79,1:16:23,Grog,Damage,36,,,36 (30 Slashing + 6 Necrotic) to Thordak,,
+79,1:19:31,Scanlan,Cutting Words,3,,,,,
+79,1:22:57,Scanlan,Perception,21,19,,,,
+79,1:22:58,Keyleth,Perception,24,13,,,,
+79,1:23:00,Percy,Perception,12,4,,,,
+79,1:23:03,Vax'ildan,Perception,25,13,,,,
+79,1:23:04,Grog,Perception,6,6,,,,
+79,1:23:07,Vex'ahlia,Perception,16,3,,,,
+79,1:24:27,Vex'ahlia,Attack,18,3,,,,Fenthras
+79,1:24:47,Vex'ahlia,Attack,Unknown,Unknown,,,,Fenthras Poison Arrow
+79,1:25:00,Vex'ahlia,Attack,25,10,,,,Fenthras
+79,1:25:16,Vex'ahlia,Damage,30,,,30 (16 Piercing + 1 Lightning + 13 SA/HM) to Thordak,,
+79,1:28:06,Vax'ildan,Attack,Unknown,Unknown,,,,Dragonslayer SA with DS
+79,1:28:06,Vax'ildan,Attack,26,15,,,,Dragonslayer SA with DS
+79,1:29:06,Vax'ildan,Damage,50,,,50 Slashing/Psychic/Radiant to Thordak,,
+79,1:35:40,Scanlan,Spell Attack,24,13,,,,Bigby's Hand
+79,1:36:21,Scanlan,Damage,41,,,41 to Fire Elemental 2,,
+79,1:38:12,Scanlan,Damage,15,,,15 Lightning to Fire Elemental 2,,
+79,1:39:29,Percy,Attack,25,12,,,,BN Piercing Shot
+79,1:40:45,Percy,Attack,20,7,,,,BN Piercing Shot
+79,1:40:55,Percy,Attack,15,2,,,,"BN Piercing Shot, no misfire"
+79,1:41:23,Percy,Damage,13,,,"13 Piercing to FE2, 6 (13/2) Piercing to Grog",,
+79,1:42:04,Percy,Attack,32,19,,,,BN Torso Shot
+79,1:42:19,Percy,Damage,20,,,20 Piercing to FE2,,
+79,1:42:44,Percy,Healing,22,,,,,"Second Wind, 22 Healing to Percy"
+79,1:47:39,Grog,Dexterity Save,Unknown,Unknown,,,,Disregarded due to advantage
+79,1:47:39,Grog,Dexterity Save,17,15,,,,With advantage
+79,1:48:42,Keyleth,Constitution Save,19,16,,,,
+79,1:53:06,Keyleth,Damage,10,,,10 Force to FE2,1,Thunderwave
+79,1:58:53,Vax'ildan,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+79,1:58:53,Vax'ildan,Attack,27,16,,,,Dragonslayer SA
+79,2:01:20,Grog,Dexterity Save,Unknown,Unknown,,,,
+79,2:01:20,Grog,Dexterity Save,21,19,,51 (102/2) Fire to Grog,,
+79,2:01:24,Pike,Dexterity Save,10,10,,51 (102/2) Fire to Pike,,
+79,2:01:35,Scanlan,Dexterity Save,9,9,,,,Bigby's Hand save
+79,2:02:01,Pike,Constitution Save,20,19,,,,Beacon of Hope fades
+79,2:04:23,Grog,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+79,2:04:23,Grog,Attack,29,15,,,,Bloodaxe thrown Reckless
+79,2:04:45,Grog,Damage,30,,,30 Slashing to Thordak,,
+79,2:05:19,Grog,Athletics,12,0,,,,Disregarded due to advantage
+79,2:05:19,Grog,Athletics,19,7,,,,With advantage
+79,2:06:02,Grog,Healing,10,,,,,"Second Wind, 10 Healing to Grog"
+79,2:06:38,Vex'ahlia,Attack,Unknown,Unknown,,,,Fenthras Poison
+79,2:06:53,Vex'ahlia,Attack,27,12,,,,Fenthras Poison
+79,2:07:24,Vex'ahlia,Damage,23,,,23 (15 Piercing + 5 Lightning + 2 HM + 2 Dragon) to Thordak,,
+79,2:08:22,Vex'ahlia,Attack,21,6,,,,Fenthras Dragonslaying
+79,2:09:24,Vex'ahlia,Stealth,14,4,,,,
+79,2:12:09,Vax'ildan,Attack,Nat20,20,,,,Dragonslayer SA with DS and HM
+79,2:13:18,Vax'ildan,Damage,102,,,102 Slashing/Radiant/Dragon to Thordak,,
+79,2:13:28,Vax'ildan,Attack,25,12,,,,Whisper
+79,2:13:48,Vax'ildan,Damage,16,,,16 Slashing/Psychic to Thordak,,
+79,2:16:24,Pike,Healing,10,,,,,10 Healing to Gilmore
+79,2:17:44,Scanlan,Damage,23,,,11 (23/2) Lightning to Thordak,,
+79,2:19:43,Scanlan,Spell Attack,23,2,,,,Bigby's Hand with War God's Blessing
+79,2:30:32,Scanlan,Damage,36,,,36 Bludgeoning to Thordak,,
+79,2:22:38,Percy,Attack,Unknown,Unknown,,,,BN Deadeye with Cabal's Ruin
+79,2:22:38,Percy,Attack,27,14,,,,BN Deadeye with Cabal's Ruin
+79,2:23:03,Percy,Damage,24,,,24 (22 Piercing + 2 Lightning) to Thordak,,
+79,2:23:26,Percy,Attack,22,9,,,,BN
+79,2:25:11,Vax'ildan,Dexterity Save,Unknown,Unknown,,,,
+79,2:25:11,Vax'ildan,Dexterity Save,18,8,,,,
+79,2:27:13,Keyleth,Perception,25,14,,,,
+79,2:29:37,Percy,Dexterity Save,11,5,,,,
+79,2:30:12,Keyleth,Damage,21,,,21 to Percy,,
+79,2:34:29,Grog,Attack,Unknown,Unknown,,,,Bloodaxe Thrown Reckless
+79,2:34:29,Grog,Attack,31,17,,,,Bloodaxe Thrown Reckless
+79,2:34:45,Grog,Damage,28,,,28 Slashing to Thordak,,
+79,2:34:55,Grog,Athletics,Unknown,Unknown,,,,
+79,2:34:55,Grog,Athletics,14,2,,,,
+79,2:36:51,Scanlan,Cutting Words,1,,,,,
+79,2:37:03,Scanlan,Dexterity Save,15,13,,50 (100/2) to Scanlan,,
+79,2:37:08,Pike,Dexterity Save,8,8,,50 (100/2) to Pike,,
+79,2:38:22,Grog,Attack,Unknown,Unknown,,,,Bloodaxe Reckless
+79,2:38:22,Grog,Attack,29,15,,,,Bloodaxe Reckless
+79,2:38:36,Grog,Damage,29,,,29 Slashing to Thordak,,
+79,2:39:03,Scanlan,Constitution Save,18,16,,,,Bigby's Hand fades
+79,2:43:43,Vex'ahlia,Attack,Unknown,Unknown,,,,Fenthras
+79,2:43:51,Vex'ahlia,Attack,29,14,,,,Fenthras
+79,2:44:05,Vex'ahlia,Damage,33,,,33 (14 Piercing + 4 Lightning + 15 SA/HM) to Thordak,,
+79,2:44:53,Vex'ahlia,Attack,Unknown,Unknown,,,,Fenthras Dragonslaying
+79,2:45:05,Vex'ahlia,Damage,37,,,37 (17 Piercing + 1 Lightning + 3 HM) to Thordak,,
+79,2:46:14,Vex'ahlia,Damage,32,,,16 (32/2) to Thordak,,
+79,2:48:43,Pike,Dexterity Save,17,17,,24 [20 Bludgeoning + 4 (8/2) Fire] to Pike,,
+79,2:49:37,Grog,Attack,Nat20,20,,,,Bloodaxe Reckless (unrolled)
+79,2:49:45,Pike,Attack,32,23,,,,Mace of Disruption with DS
+79,2:50:36,Grog,Damage,47,,,47 Slashing/Necrotic to Thordak,,
+79,2:50:51,Pike,Damage,19,,,19 Bludgeoning to Thordak,,
+79,2:51:49,Vax'ildan,Attack,17,6,,,,Dragonslayer
+79,2:51:54,Vax'ildan,Attack,24,11,,,,Whisper
+79,2:51:58,Vax'ildan,Attack,22,11,,,,Dragonslayer
+79,2:52:42,Vax'ildan,Damage,45,,,45 (9 + 4 Psychic + 27 SA + 5 HM) to Thordak,,
+79,2:53:06,Vax'ildan,Damage,21,,,21 to Thordak,,
+79,2:54:10,Vax'ildan,Damage,4,,,4 to Thordak (HM),,
+79,2:55:09,Pike,Spell Attack,24,14,,,,Guiding Bolt
+79,2:55:34,Pike,Damage,26,,,26 Radiant to Thordak,,
+79,2:56:36,Pike,Healing,8,,,,,8 Healing to Jarett
+79,2:58:26,Scanlan,Healing,24,,,,,"Superior Healing Potion, 24 Healing to Pike"
+79,2:59:22,Scanlan,Spell Attack,23,12,,,,Bigby's Hand with War God's Blessing
+79,3:00:12,Scanlan,Damage,27,,,27 Bludgeoning to Thordak,,
+79,3:00:55,Percy,Healing,9,,,,,"Greater Healing Potion, 9 Healing to Percy"
+79,3:01:20,Percy,Attack,23,10,,,,BN with Cabal's Ruin
+79,3:02:18,Percy,Damage,21,,,21 to Thordak,,
+79,3:02:34,Percy,Attack,Unknown,Unknown,,,,BN
+79,3:04:31,Scanlan,Dexterity Save,Nat20,20,,,,
+79,3:04:43,Percy,Dexterity Save,Unknown,Unknown,,,,Indomitable
+79,3:04:43,Percy,Dexterity Save,9,3,,,,
+79,3:04:48,Keyleth,Dexterity Save,5,3,,,,
+79,3:04:49,Vex'ahlia,Dexterity Save,30,18,,,,
+79,3:04:54,Pike,Dexterity Save,8,8,,,,
+79,3:04:56,Grog,Dexterity Save,11,9,,,,
+79,3:06:33,Vax'ildan,Dexterity Save,Unknown,Unknown,,,,With Luck and Advantage
+79,3:06:33,Vax'ildan,Dexterity Save,Unknown,Unknown,,,,With Luck and Advantage
+79,3:06:33,Vax'ildan,Dexterity Save,26,16,,,,With Luck and Advantage
+79,3:10:08,Keyleth,Damage,48,,,24 (48/2) Lightning to Thordak,,Spire of Conflux Chain Lightning
+79,3:13:42,Grog,Attack,Nat20,20,,,,Bloodaxe thrown Reckless
+79,3:13:42,Grog,Attack,24,10,,,,Bloodaxe thrown Reckless
+79,3:14:11,Grog,Damage,37,,,38 Slashing/Necrotic to Thordak,,
+79,3:15:48,Vax'ildan,Strength Save,Unknown,Unknown,,,,Disregarded due to Luck
+79,3:15:48,Vax'ildan,Strength Save,15,13,,,,With Luck
+79,3:16:09,Vax'ildan,Acrobatics,25,10,,,,Possible RT use
+79,3:18:16,Vax'ildan,Attack,24,12,,,,Dragonslayer
+79,3:18:45,Vax'ildan,Attack,Nat20,20,,,,Whisper
+79,3:19:13,Vax'ildan,Damage,21,,,21 to Thordak,,
+79,3:19:50,Vax'ildan,Damage,31,,1,38 to Thordak,1,"Thordak dies, HDYWTDT"
+79,3:21:52,Vax'ildan,Acrobatics,Unknown,Unknown,,,,Disregarded due to disadvantage
+79,3:21:52,Vax'ildan,Acrobatics,25,10,,,,"With disadvantage, Possible RT use"
+79,3:42:32,Grog,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+79,3:42:32,Grog,Attack,21,12,,,,Bloodaxe GWM Reckless
+79,3:42:45,Grog,Damage,32,,,32 to Fire Giant,,
+79,3:43:41,Pike,Spell Attack,17,7,,,,Guiding Bolt
+79,3:44:37,Pike,Healing,6,,,,,6 Healing to Pike
+79,3:45:12,Scanlan,Spell Attack,24,13,,,,Bigby's Hand
+79,3:45:55,Scanlan,Damage,34,,,34 to FG,,
+79,3:46:45,Scanlan,Healing,14,,,,,14 Healing to Scanlan
+79,3:47:58,Percy,Attack,26,17,,,,Animus SS
+79,3:48:13,Percy,Damage,25,,,25 (21 + 4 Psychic) to FG,,
+79,3:48:26,Percy,Attack,21,12,,,,Animus SS
+79,3:48:38,Percy,Damage,28,,,28 (27 + 1 Psychic) to FG,1,
+79,3:55:42,Grog,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+79,3:55:42,Grog,Attack,19,10,,,,Bloodaxe Reckless GWM
+79,3:55:53,Grog,Damage,36,,,36 to Wyvern 2,1,
+79,4:00:52,Vax'ildan,Dexterity,Unknown,Unknown,,,,
+79,4:00:52,Vax'ildan,Dexterity,28,18,,,,
+79,4:01:30,Vax'ildan,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+79,4:01:30,Vax'ildan,Attack,23,9,,,,Whisper
+79,4:01:36,Vax'ildan,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+79,4:01:36,Vax'ildan,Attack,19,8,,,,Dagger
+79,4:01:40,Vax'ildan,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+79,4:01:40,Vax'ildan,Attack,29,15,,,,Whisper
+79,4:02:12,Vax'ildan,Damage,15,,,15 to Raishan,,
+79,4:02:33,Vax'ildan,Damage,9,,,9 to Raishan,,
+79,4:07:05,Vex'ahlia,Attack,18,3,,,,Fenthras
+79,4:07:11,Vex'ahlia,Attack,27,12,,,,Fenthras
+79,4:07:16,Vex'ahlia,Attack,Nat1,1,,,,Fenthras
+79,4:07:38,Vex'ahlia,Damage,15,,,15 to Raishan,,
+79,4:09:06,Grog,Strength,18,11,,,,Disregarded due to advantage
+79,4:09:06,Grog,Strength,25,18,,,1,"With advantage, Rider 2 is dead"
+79,4:11:35,Vax'ildan,Perception,31,19,,,,
+79,4:11:53,Vex'ahlia,Perception,27,14,,,,
+79,4:11:55,Keyleth,Perception,25,14,,,,
+79,4:14:39,Vax'ildan,Dexterity Save,25,15,,,,
+79,4:14:43,Keyleth,Dexterity Save,22,19,,31 (62/2) Fire + 35 (70/2) Bludgeoning to Keyleth,,Against Meteor Swarm
+79,4:14:47,Vex'ahlia,Dexterity Save,29,19,,31 (62/2) Fire + 35 (70/2) Bludgeoning to Vex,,Against Meteor Swarm

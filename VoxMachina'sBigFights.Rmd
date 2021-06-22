@@ -1,7 +1,7 @@
 ---
-title: "Semester Project"
+title: "Vox Machina's Big Fights; A Visualization "
 author: "Kaelan McGurk"
-date: "`r format(Sys.time(), '%B %d, %Y')`"
+date: "April 7th, 2020"
 output:
   html_document:  
     keep_md: true
@@ -36,9 +36,9 @@ RaishanFight <- read_csv("Ep83CritRole.csv")
 
 ## Background
 
-Critical Role is an online show with nerdy voice actors playing the very popular game Dungeons and Dragons. It is a very fun showed filled with high fantasy, drama, comedy, and lots, and lots, of rolling of dice. Which is good news for data people because all those numbers translates BRILLIANTLY into juicy data for us to play with. Critical Role has gained immense popularity over the years and as such a volunteer group started compiling all those dice rolls into cute sets and summaries. They are called CritRoleStats and they were kind and smart enough to put thier compiled datasets on thier website. 
+Critical Role is an online show with nerdy voice actors playing the very popular game Dungeons and Dragons. It is a very fun showed filled with high fantasy, drama, comedy, and lots, and lots, of rolling of dice. Which is good news for data people because all those numbers translates BRILLIANTLY into juicy data for us to play with. Critical Role has gained immense popularity over the years and as such a volunteer group started compiling all those dice rolls into cute sets and summaries. They are called [CritRoleStats](https://www.critrolestats.com/) and they were kind and smart enough to put their compiled datasets on their website. 
 
-I decided to pick the four biggest battles from the first season (or campaign) of the show and analyse thier total rolls, total damage, and how each compared to the last. The entire season spans 115 episodes and the four I chose are very evenly distributed among that stretch. They are the Briarwood Fight, The Thordak Fight, The Raishan Fight, and the Vecna Fight. I do not think you are too terribly interested in what the adventurers fought, but, those are the names of the creatures anyway.
+I decided to pick the four biggest battles from the first season (or campaign) of the show and analyze their total rolls, total damage, and how each compared to the last. The entire season spans 115 episodes and the four I chose are very evenly distributed among that stretch. They are the Briarwood Fight, The Thordak Fight, The Raishan Fight, and the Vecna Fight. I do not think you are too terribly interested in what the adventurers fought, but, those are the names of the creatures anyway.
 
 ## Data Wrangling
 

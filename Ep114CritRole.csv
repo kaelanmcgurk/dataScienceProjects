@@ -1,0 +1,335 @@
+Episode,Time,Character,Type of Roll,Total Value,Natural Value,Crit?,Damage,Kill #,Notes
+114,0:16:50,Grog,Perception,9,9,,,,
+114,0:16:42,Percy,Perception,Nat20,20,,,,
+114,0:16:45,Vex'ahlia,Perception,31,16,,,,
+114,0:16:45,Vax'ildan,Perception,24,10,,,,Possible RT use
+114,0:16:46,Scanlan,Perception,8,7,,,,Scanlan 1
+114,0:16:48,Keyleth,Perception,21,9,,,,
+114,0:16:51,Pike,Perception,25,14,,,,
+114,0:22:14,Grog,Initiative,Unknown,Unknown,,,,Disregarded due to advantage
+114,0:22:14,Grog,Initiative,27,Unknown,,,,With advantage and 1d10
+114,0:22:14,Vex'ahlia,Initiative,25,18,,,,
+114,0:22:23,Vax'ildan,Initiative,22,17,,,,
+114,0:22:29,Keyleth,Initiative,17,15,,,,
+114,0:22:29,Percy,Initiative,15,3,,,,
+114,0:22:42,Scanlan,Initiative,8,5,,,,Scanlan 1
+114,0:22:46,Pike,Initiative,2,2,,,,
+114,0:25:20,Vex'ahlia,Damage,12,,,12 Radiant to Vecna,,Blessing of the Dawnfather
+114,0:25:29,Grog,Dexterity Save,Unknown,Unknown,,,,Disregarded due to advantage
+114,0:25:29,Grog,Dexterity Save,17,15,,66 [33 (67/2) Bludgeoning + 33 (66/2) Fire] to Grog,,With advantage against Meteor Swarm
+114,0:25:47,Vex'ahlia,Dexterity Save,Unknown,Unknown,,,,Disregarded due to advantage
+114,0:25:47,Vex'ahlia,Dexterity Save,29,17,,66 [33 (67/2) Bludgeoning + 33 (66/2) Fire] to Vex'ahlia,,With advantage against Meteor Swarm
+114,0:25:47,Vex'ahlia,Bless,3,,,,,
+114,0:25:53,Vax'ildan,Dexterity Save,Unknown,Unknown,,,,Disregarded due to advantage
+114,0:25:53,Vax'ildan,Dexterity Save,30,Unknown,,,,With advantage against Meteor Swarm and Bless
+114,0:25:54,Keyleth,Dexterity Save,Unknown,Unknown,,,,Disregarded due to advantage
+114,0:25:54,Keyleth,Dexterity Save,21,Unknown,,133 (67 Bludgeoning + 66 Fire) to Keyleth,,With advantage against Meteor Swarm and Bless
+114,0:25:56,Percy,Dexterity Save,Unknown,Unknown,,,,Disregarded due to advantage
+114,0:25:56,Percy,Dexterity Save,15,9,,133 (67 Bludgeoning + 66 Fire) to Percy,,With advantage against Meteor Swarm
+114,0:25:57,Scanlan,Dexterity Save,Unknown,Unknown,,,,Disregarded due to advantage
+114,0:25:57,Scanlan,Dexterity Save,Nat20=26,20,,66 [33 (67/2) Bludgeoning + 33 (66/2) Fire] to Scanlan,,With advantage against Meteor Swarm
+114,0:26:25,Pike,Dexterity Save,Unknown,Unknown,,,,Disregarded due to advantage
+114,0:26:25,Pike,Dexterity Save,20,19,,66 [33 (67/2) Bludgeoning + 33 (66/2) Fire] to Pike,,With advantage against Meteor Swarm
+114,0:27:46,Pike,Constitution Save,Unknown,Unknown,,,,Disregarded due to advantage
+114,0:27:46,Pike,Constitution Save,22,19,,,,"Concentration with advantage, Holy Aura fades"
+114,0:27:59,Scanlan,Constitution Save,Unknown,Unknown,,,,Disregarded due to advantage
+114,0:27:59,Scanlan,Constitution Save,27,18,,,,"Concentration with advantage, Unseen Servant fades"
+114,0:32:01,Grog,Strength Save,Unknown,Unknown,,,,Disregarded due to advantage
+114,0:32:01,Grog,Strength Save,24,10,,,,With advantage
+114,0:32:02,Scanlan,Strength Save,12,11,,,,Scanlan 1 falls
+114,0:32:04,Vex'ahlia,Strength Save,20,14,,,,
+114,0:32:06,Percy,Strength Save,22,15,,,,
+114,0:32:07,Keyleth,Strength Save,19,14,,,,
+114,0:32:39,Scanlan,Initiative,16,13,,,,Scanlan 2
+114,0:33:46,Grog,Athletics,Unknown,Unknown,,,,Disregarded due to advantage
+114,0:33:46,Grog,Athletics,28,14,,,,With advantage
+114,0:34:24,Grog,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+114,0:34:24,Grog,Attack,31,14,,,,Sword of Kas Reckless
+114,0:35:13,Grog,Damage,37,,,37 Slashing to Vecna,,
+114,0:36:03,Grog,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+114,0:36:03,Grog,Attack,27,10,,,,Sword of Kas Reckless
+114,0:36:19,Grog,Damage,35,,,35 Slashing to Vecna,,
+114,0:37:09,Grog,Athletics,Unknown,Unknown,,,,Disregarded due to advantage
+114,0:37:09,Grog,Athletics,33,19,,,,"With advantage, disregarded"
+114,0:37:38,Grog,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+114,0:37:38,Grog,Attack,30,13,,,,"Sword of Kas Reckless, disregarded"
+114,0:38:22,Grog,Athletics,Unknown,Unknown,,,,Disregarded due to advantage
+114,0:38:22,Grog,Athletics,19,5,,,,With advantage
+114,0:41:46,Vex'ahlia,Attack,30,16,,,,Fenthras Holy Needle Bramble Shot with Bless
+114,0:42:23,Vex'ahlia,Damage,41,,,41 to Vecna,,
+114,0:43:40,Vex'ahlia,Attack,25,11,,,,Fenthras Needle Arrow with Bless
+114,0:44:26,Vex'ahlia,Damage,20,,,20 to Vecna,,
+114,0:46:58,Vex'ahlia,Damage,9,,,9 Radiant to Vecna,,Blessing of the Dawnfather
+114,0:49:17,Vax'ildan,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+114,0:49:17,Vax'ildan,Attack,23,9,,,,Whisper Sneak Attack
+114,0:49:17,Vax'ildan,Bless,1,,,,,
+114,0:49:31,Vax'ildan,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+114,0:49:31,Vax'ildan,Attack,25,Unknown,,,,Dagger of Venom with Bless
+114,0:50:20,Vax'ildan,Damage,44,,,44 to Vecna,,
+114,0:50:38,Vax'ildan,Damage,9,,,9 to Vecna,,
+114,0:53:55,Scanlan,Athletics,11,7,,,,Scanlan 2
+114,0:54:32,Scanlan,Inspiration,3,,,,,Scanlan 2
+114,0:56:29,Scanlan,Attack,29,17,,,,"Scanlan 2, Bigby's Hand (+1 War Wand)"
+114,0:57:15,Scanlan,Damage,12,,,0 to Vecna,,Vecna is immune to spell damage lower than 6th level
+114,0:57:53,Scanlan,Intelligence,Nat1,1,,,,Scanlan 2
+114,1:02:27,Keyleth,Damage,45,,,90 (45 Radiant to Vecna + 45 Radiant to Velora),1,Sunburst
+114,1:03:44,Keyleth,Healing,Unknown,Unknown,,,,"Healing Word (2nd), Keyleth heals unknown points"
+114,1:04:55,Percy,Attack,20,5,,,,Sword with 2 points of Cabal's Ruin
+114,1:05:17,Percy,Damage,15,,,15 (8 Piercing + 7 Lightning) to Skeleton,1,
+114,1:05:49,Percy,Attack,30,15,,,,Animus with 1 point of Cabal's Ruin
+114,1:06:15,Percy,Damage,20,,,20 (14 Piercing + 5 Psychic + 1 Lightning) to Skeleton,1,
+114,1:07:48,Percy,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+114,1:07:48,Percy,Attack,31,16,,,,Animus Deadeye with 6 points of Cabal's Ruin
+114,1:08:04,Percy,Damage,21,,,21 (16 + 6 Psychic) to Vecna,,
+114,1:08:26,Percy,Damage,21,,,10 (21/2) Lightning to Vecna,,
+114,1:08:47,Percy,Damage,6,,,3 (6/2) Necrotic to Vecna,,
+114,1:09:55,Percy,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+114,1:09:55,Percy,Attack,17,6,,,,Animus Deadeye Sharpshooter
+114,1:10:24,Percy,Attack,19,9,,,,Animus Sharpshooter
+114,1:10:35,Percy,Attack,24,14,,,,Animus Sharpshooter
+114,1:10:54,Percy,Damage,28,,,28 [22 Piercing + 5 Psychic + 1 (2/2) Necrotic] to Vecna,,
+114,1:12:05,Scanlan,Dexterity Save,Unknown,Unknown,,,,Disregarded due to disadvantage
+114,1:12:05,Scanlan,Dexterity Save,19,13,,8 (16/2) Piercing to Scanlan 1,,"Scanlan 1, with disadvantage"
+114,1:15:18,Scanlan,Healing,11,,,,,"Scanlan 1, Healing Word (2nd), Vex'ahlia heals 11 points"
+114,1:16:57,Trinket,Dexterity Save,19,17,,133 (67 Bludgeoning + 66 Fire) to Trinket,,"Against Meteor Swarm, Trinket goes in the necklace"
+114,1:18:01,Pike,Healing,39,,,,,"Mass Cure Wounds, Percy, Vex, Keyleth, and Pike heal 39 points"
+114,1:23:43,Scanlan,Arcana,20,17,,,,Scanlan 1
+114,1:24:22,Scanlan,Charisma,22,16,,,,"Scanlan 1, Counterspell"
+114,1:27:08,Scanlan,Attack,13,2,,,,"Scanlan 1, Bigby's Hand Attack of Opportunity"
+114,1:29:31,Grog,Intelligence,2,4,,,,
+114,1:29:45,Grog,Healing,9,,,,,"Amulet of the Drunkard, Grog heals 9 points"
+114,1:30:01,Grog,Healing,13,,,,,"Second Wind, Grog heals 13 points"
+114,1:32:45,Vax'ildan,Attack,27,13,,,,Whisper Sneak Attack against the Tome with disadvantage
+114,1:32:45,Vax'ildan,Bless,1,,,,,
+114,1:32:45,Vax'ildan,Attack,32,17,,,,Disregarded due to disadvantage
+114,1:32:45,Vax'ildan,Bless,1,,,,,
+114,1:33:26,Vax'ildan,Damage,36,,,36 to Tome,,
+114,1:34:02,Vax'ildan,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+114,1:34:02,Vax'ildan,Attack,17,3,,,,Dagger of Venom with advantage
+114,1:34:02,Vax'ildan,Bless,2,,,,,
+114,1:34:08,Vax'ildan,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+114,1:34:08,Vax'ildan,Attack,26,12,,,,Whisper Sneak Attack with advantage
+114,1:34:08,Vax'ildan,Bless,3,,,,,
+114,1:34:19,Vax'ildan,Damage,17,,,17 to Vecna,,
+114,1:34:28,Vax'ildan,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+114,1:34:28,Vax'ildan,Attack,25,Unknown,,,,Dagger of Venom with advantage with Bless
+114,1:34:39,Vax'ildan,Damage,4,,,4 to Vecna,,
+114,1:36:43,Keyleth,Intelligence Save,25,13,,,,Against Feeblemind with advantage and Bless
+114,1:36:43,Keyleth,Intelligence Save,Unknown,Unknown,,,,Disregarded due to advantage
+114,1:36:43,Keyleth,Bless,2,,,,,
+114,1:37:25,Keyleth,Inspiration,6,,,,,
+114,1:41:34,Scanlan,Dexterity Save,15,9,,56 Fire to Bigby's Hand,,Bigby's Hand against Fire Breath
+114,1:47:28,Percy,Attack,20,5,,,,Animus
+114,1:47:34,Percy,Attack,25,10,,,,Animus
+114,1:47:40,Percy,Attack,29,19,,,,Animus
+114,1:47:59,Percy,Damage,21,,,21 (17 Piercing + 4 Psychic) to Skeleton,1,
+114,1:48:10,Percy,Damage,14,,,14 (12 Piercing + 2 Psychic) to Skeleton,1,
+114,1:48:24,Percy,Damage,Unknown,Unknown,,Unknown damage to Skeleton,1,
+114,1:49:29,Percy,Attack,29,19,Y,,,Animus Sharpshooter Violent Shot (1 point)
+114,1:50:35,Percy,Damage,57,,,57 (48 Piercing + 9 Psychic) to Vecna,,
+114,1:51:53,Percy,Attack,24,9,,,,Animus Wing Shot
+114,1:51:59,Percy,Damage,17,,,17 (13 Piercing + 4 Psychic) to Vecna,,
+114,1:52:57,Percy,Attack,Nat20,20,Y,,,Animus
+114,1:53:19,Percy,Damage,32,,,32 (20 + 12 Psychic) to Vecna,,Crack appears in Vecna's shoulder
+114,1:54:19,Scanlan,Attack,14,2,,,,"Scanlan 1, Bigby's Hand"
+114,1:57:28,Pike,Attack,Nat20,20,Y,,,Guiding Bolt (6th)
+114,2:01:21,Pike,Damage,37,,,74 (37x2) Radiant to Vecna,,Crack in Vecna's shoulder is much larger
+114,2:03:23,Pike,Healing,25,,,,,"Healing Word (2nd), Grog heals 25 points"
+114,2:06:20,Grog,Dexterity Save,Unknown,Unknown,,,,Disregarded due to advantage
+114,2:06:20,Grog,Dexterity Save,18,16,,65 [30 (61/2) Bludgeoning + 35 (71/2) Fire] to Grog,,Against Meteor Swarm with advantage
+114,2:06:24,Vax'ildan,Dexterity Save,31,Unknown,,,,Against Meteor Swarm with Bless
+114,2:06:26,Keyleth,Dexterity Save,Unknown,Unknown,,,,Disregarded due to advantage
+114,2:06:26,Keyleth,Dexterity Save,21,Unknown,,101 [30 (61/2) Bludgeoning + 71 Fire] to Keyleth,,Against Meteor Swarm with advantage (as Planetar) with Bless
+114,2:06:25,Percy,Dexterity Save,Unknown,Unknown,,,,Disregarded due to advantage
+114,2:06:25,Percy,Dexterity Save,Unknown,Unknown,,66 [30 (61/2) Bludgeoning + 36 (71/2) Fire] to Percy,,"Against Meteor Swarm with advantage, Cabal's Ruin gets 9 charges"
+114,2:06:16,Scanlan,Dexterity Save,10,7,,"1 to Eagle!Scanlan, 130 (60 Bludgeoning + 70 Fire) to Scanlan",,"Against Meteor Swarm (as Giant Eagle), Death Ward activates"
+114,2:33:31,Vex'ahlia,Stealth,24,7,,,,
+114,2:37:04,Vax'ildan,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+114,2:37:04,Vax'ildan,Attack,Unknown,Unknown,,,,Disregarded due to Luck
+114,2:37:04,Vax'ildan,Attack,24,Unknown,,,,"Whisper with Sneak Attack, Luck, advantage, Bless, and Divine Smite (2nd)"
+114,2:38:12,Vax'ildan,Damage,63,,,63 to Vecna,,A crack in Vecna's skull appears
+114,2:39:16,Vax'ildan,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+114,2:39:16,Vax'ildan,Attack,33,19,,,,Whisper with advantage
+114,2:39:16,Vax'ildan,Bless,3,,,,,
+114,2:40:06,Vax'ildan,Damage,22,,,22 to Vecna,,
+114,2:42:31,Vax'ildan,Constitution Save,Unknown,Unknown,,,,Disregarded due to Luck
+114,2:42:31,Vax'ildan,Constitution Save,24,Unknown,,39 Necrotic to Vax'ildan,,Against Circle of Death with Luck and Bless
+114,2:47:46,Zahra,Damage,68,,,34 (68/2) Necrotic to Vecna,,Finger of Death
+114,2:49:43,Kashaw,Healing,20,,,,,"Mass Cure Wounds (6th), Grog, Scanlan, and Percy heal 20 points"
+114,2:50:23,Percy,Constitution Save,Unknown,Unknown,,,,"Concentration, Hex fades"
+114,2:52:45,Keyleth,Strength,16,9,,,,As Planetar
+114,2:55:14,Grog,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+114,2:55:14,Grog,Attack,31,14,,,,Sword of Kas Reckless
+114,2:55:37,Grog,Damage,43,,,43 to Vecna,,A crack opens in Vecna's form
+114,2:57:10,Percy,Attack,29,14,,,,Animus with 2 points of Cabal's Ruin
+114,2:57:17,Percy,Damage,23,,,23 (15 Piercing + 2 Psychic + 6 Lightning) to Gloomstalker 1,,
+114,2:58:00,Percy,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+114,2:58:00,Percy,Attack,27,12,,,,Animus Deadeye
+114,2:58:20,Percy,Damage,11,,,11 (9 Piercing + 2 Psychic) to Gloomtalker 1,,
+114,2:58:35,Percy,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+114,2:58:35,Percy,Attack,24,9,,,,Animus Deadeye with 5 points of Cabal's Ruin
+114,2:59:03,Percy,Damage,37,,,37 (18 Lightning + 13 Piercing + 6 Psychic) to Gloomstalker 2,,
+114,3:02:02,Scanlan,Damage,40,,,20 (40/2) Fire to Vecna,,Wand of Fireballs (5 charges)
+114,3:02:43,Scanlan,Healing,10,,,,,"Healing Word (2nd), Scanlan heals 10 points"
+114,3:09:40,Kashaw,Wisdom Save,Nat1,1,,,,Against Hold Monster
+114,3:09:40,Zahra,Wisdom Save,Unknown,Unknown,,,,Disregarded due to Luck
+114,3:09:40,Zahra,Wisdom Save,22,14,,,,Against Hold Monster with Luck
+114,3:12:40,Vax'ildan,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+114,3:12:40,Vax'ildan,Attack,24,Unknown,,,,Whisper Sneak Attack of Opportunity with Divine Smite with Bless
+114,3:14:19,Vax'ildan,Damage,65,,,65 to Vecna,,
+114,3:20:20,Vex'ahlia,Attack,Nat1,1,,,,Fenthras Needle Arrow
+114,3:20:30,Vex'ahlia,Attack,28,13,,,,Fenthras Needle Arrow
+114,3:20:47,Vex'ahlia,Damage,16,,,16 to Vecna,,
+114,3:23:59,Grog,Dexterity Save,Unknown,Unknown,,,,Disregarded due to advantage
+114,3:23:59,Grog,Dexterity Save,Unknown,Unknown,,55 Bludgeoning/Fire to Grog,,Against Meteor Swarm with advantage
+114,3:25:07,Grog,Healing,12,,,,,Stone's Endurance
+114,3:24:00,Pike,Dexterity Save,Unknown,Unknown,,72 Bludgeoning/Fire to Pike,,Against Meteor Swarm
+114,3:23:56,Vex'ahlia,Dexterity Save,34,Unknown,,68 [36 (72/2) Bludgeoning + 32 (65/2) Fire] to Vex'ahlia,,Against Meteor Swarm with Bless
+114,3:23:55,Vax'ildan,Dexterity Save,34,Unknown,,,,Against Meteor Swarm with Bless
+114,3:23:54,Keyleth,Dexterity Save,Unknown,Unknown,,,,Disregarded due to advantage
+114,3:23:54,Keyleth,Dexterity Save,20,Unknown,,137 (72 Bludgeoning + 65 Fire) to Keyleth,,Against Meteor Swarm with advantage with Bless
+114,3:23:52,Percy,Dexterity Save,Unknown,Unknown,,,,Disregarded due to advantage
+114,3:23:52,Percy,Dexterity Save,16,15,,137 (72 Bludgeoning + 65 Fire) to Percy,,Against Meteor Swarm with advantage
+114,3:23:49,Scanlan,Dexterity Save,9,3,,137 (72 Bludgeoning + 65 Fire) to Scanlan,,Against Meteor Swarm
+114,3:25:40,Vax'ildan,Healing,33,,,,,"Superior Healing Potion, Keyleth heals 33 points"
+114,3:26:06,Vax'ildan,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+114,3:26:06,Vax'ildan,Attack,Nat20,20,Y,,,Whisper Sneak Attack with advantage
+114,3:26:18,Vax'ildan,Damage,69,,,69 to Vecna,,
+114,3:27:17,Vax'ildan,Attack,27,Unknown,,,,Disregarded due to disadvantage with Bless
+114,3:27:17,Vax'ildan,Attack,28,Unknown,,,,Whisper with advantage with Bless
+114,3:27:26,Vax'ildan,Damage,20,,,20 to Vecna,,
+114,3:34:13,Arkhan,Attack,20,12,,,,Javelin
+114,3:35:20,Percy,Wisdom Save,Unknown,Unknown,,,,Disregarded due to advantage
+114,3:35:20,Percy,Wisdom Save,Nat20,20,,,,Against Gloomstalker shriek with advantage
+114,3:25:28,Scanlan,Wisdom Save,Unknown,Unknown,,,,Disregarded due to advantage
+114,3:35:28,Scanlan,Wisdom Save,13,15,,,,Against Gloomstalker shriek with advantage
+114,3:36:56,Grog,Athletics,Unknown,Unknown,,,,Disregarded due to advantage
+114,3:36:56,Grog,Athletics,23,9,,,,With advantage
+114,3:37:44,Grog,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+114,3:37:44,Grog,Attack,Nat20,20,Y,,,Sword of Kas Reckless
+114,3:37:55,Grog,Damage,81,,,81 to Vecna,,
+114,3:41:25,Keyleth,Attack,18,Unknown,,,,Planetar Sword with Bless
+114,3:41:25,Keyleth,Bless,4,,,,,
+114,3:41:49,Keyleth,Attack,Unknown,Unknown,,,,Planetar Sword with Bless
+114,3:41:54,Keyleth,Damage,32,,,43 (15 Slashing + 28 Radiant) to Vecna,,
+114,3:43:15,Vex'ahlia,Damage,10,,,10 Radiant to Vecna,,Blessing of the Dawnfather
+114,3:43:55,Percy,Attack,21,8,,,,Sword with 1 point of Cabal's Ruin
+114,3:44:04,Percy,Damage,14,,,14 (13 + 1 Lightning) to Gloomstalker,1,
+114,3:44:55,Percy,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+114,3:44:55,Percy,Attack,25,10,,,,Animus Deadeye with 1 point of Cabal's Ruin
+114,3:45:16,Percy,Damage,20,,,20 (16 Piercing + 2 Psychic + 2 Lightning) to Gloomstalker,1,
+114,3:46:11,Percy,Attack,31,16,,,,Animus Piercing
+114,3:46:29,Percy,Damage,13,,,13 (10 Piercing + 3 Psychic) to Skeleton,1,
+114,3:46:41,Percy,Attack,22,7,,13 (10 Piercing + 3 Psychic) to Skeleton,1,
+114,3:47:20,Percy,Attack,34,19,,13 (10 Piercing + 3 Psychic) to Skeleton,1,
+114,3:48:00,Percy,Healing,Unknown,Unknown,,,,"Superior Healing Potion, Percy heals unknown points"
+114,3:50:00,Scanlan,Healing,33,,,,,"Superior Healing Potion, Scanlan heals 33 points"
+114,3:51:15,Pike,Healing,40,,,,,"Mass Cure Wounds, Pike, Scanlan, Percy, and Arkhan heal 40 points"
+114,3:53:36,Pike,Healing,Unknown,Unknown,,,,"Superior Healing Potion, Pike heals unknown points"
+114,3:54:10,Vex'ahlia,Constitution Save,17,15,,,,"Concentration, Hunter's Mark fades"
+114,3:56:00,Keyleth,Constitution Save,Unknown,Unknown,,,,Disregarded due to advantage
+114,3:56:00,Keyleth,Constitution Save,23,18,,41 Necrotic to Keyleth,,Against Circle of Death (6th) with advantage (as Planetar)
+114,3:56:15,Vax'ildan,Constitution Save,Unkknown,Unknown,,,,Disregarded due to Luck
+114,3:56:15,Vax'ildan,Constitution Save,Nat20=28,20,,10 (40/2/2) Necrotic to Vax'ildan,,Against Circle of Death (6th) with Luck
+114,3:56:08,Grog,Constitution Save,Unknown,Unknown,,,,Disregarded due to advantage
+114,3:56:08,Grog,Constitution Save,26,15,,20 (40/2) Necrotic to Grog,,Against Circle of Death (6th) with advantage
+114,3:56:58,Grog,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+114,3:56:58,Grog,Attack,Unknown,Unknown,,,,Sword of Kas Reckless Attack of Opportunity
+114,3:57:10,Grog,Damage,38,,,38 to Vecna,,
+114,4:00:28,Grog,Strength,Unknown,Unknown,,,,Disregarded due to advantage
+114,4:00:28,Grog,Strength,20,12,,,,With advantage
+114,4:02:35,Grog,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+114,4:02:35,Grog,Attack,28,11,,,,Sword of Kas Reckless
+114,4:02:43,Grog,Damage,32,,,32 to Vecna,,
+114,4:03:12,Grog,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+114,4:03:12,Grog,Attack,33,16,,,,
+114,4:03:22,Grog,Damage,38,,,38 to Vecna,,
+114,4:03:38,Grog,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+114,4:03:38,Grog,Attack,Nat20,20,Y,,,Sword of Kas Reckless
+114,4:03:50,Grog,Damage,68,,,68 to Vecna,,
+114,4:06:30,Vex'ahlia,Constitution Save,23,Unknown,,32 (64/2) Necrotic to Vex'ahlia,,Against Finger of Death with Bless
+114,4:06:52,Vax'ildan,Constitution Save,26,Unknown,,,,Concentration with Bless
+114,4:08:28,Vex'ahlia,Attack,26,12,,,,Fenthras Sharpshooter Sneak Attack
+114,4:08:28,Vex'ahlia,Bless,3,,,,,
+114,4:08:45,Vex'ahlia,Damage,39,,,39 to Vecna,,
+114,4:09:30,Vex'ahlia,Damage,13,,,13 Radiant to Vecna,,Blessing of the Dawnfather
+114,4:09:42,Vex'ahlia,Attack,23,14,,,,Fenthras Sharpshooter
+114,4:09:42,Vex'ahlia,Bless,1,,,,,
+114,4:10:02,Vex'ahlia,Damage,18,,,18 to Vecna,,
+114,4:10:38,Vax'ildan,Perception,28,14,,,,
+114,4:13:38,Vax'ildan,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+114,4:13:38,Vax'ildan,Attack,28,,,,,Whisper Sneak Attack with advantage with Bless
+114,4:13:38,Vax'ildan,Bless,1,,,,,
+114,4:13:49,Vax'ildan,Damage,33,,,33 to Vecna,,
+114,4:14:06,Vax'ildan,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+114,4:14:06,Vax'ildan,Attack,21,Unknown,,,,Dagger of Venom with advantage with Bless
+114,4:14:25,Vax'ildan,Healing,Unknown,Unknown,,,,"Greater Healing Potion, Vax'ildan heals unknown points"
+114,4:17:04,Arkhan,Attack,23,9,,,,Fane-Eater Battleaxe with Divine Smite (1st)
+114,4:17:50,Arkhan,Damage,37,,,37 to Vecna,,
+114,5:17:56,Arkhan,Attack,Nat20,20,Y,,,Fane-Eater Battleaxe with Divine Smite (1st)
+114,4:19:09,Arkhan,Damage,60,,,55 [50 + 5 (10/2) Necrotic) to Vecna,,
+114,4:19:42,Arkhan,Attack,29,15,,,,Fane-Eater Battleaxe with Divine Smite (1st)
+114,4:20:12,Arkhan,Damage,43,,,43 to Vecna,,
+114,4:23:24,Keyleth,Strength,10,3,,,,As Planetar
+114,4:24:51,Percy,Attack,27,12,,,,Animus Piercing
+114,4:25:00,Percy,Damage,20,,,20 (15 Piercing + 5 Psychic) to Skeleton,1,
+114,4:25:06,Percy,Attack,18,3,,20 (15 Piercing + 5 Psychic) to Skeleton,1,Animus Piercing
+114,4:25:59,Percy,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+114,4:25:59,Percy,Attack,Nat20,20,Y,,,Animus Deadeye Sharpshooter
+114,4:26:22,Percy,Damage,34,,,34 (31 Piercing + 3 Psychic) to Vecna,,
+114,4:26:39,Percy,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+114,4:26:39,Percy,Attack,29,19,Y,,,Animus Deadeye Sharpshooter
+114,4:26:51,Percy,Damage,31,,,31 (26 Piercing + 5 Psychic) to Vecna,,
+114,4:34:12,Scanlan,Constitution Save,Unknown,Unknown,,,,Disregarded due to advantage
+114,4:34:12,Scanlan,Constitution Save,28,19,,24 (49/2) Necrotic to Scanlan,,Against Finger of Death
+114,4:35:17,Vex'ahlia,Healing,Unknown,Unknown,,,,"Superior Healing Potion, Vex heals unknown points"
+114,4:36:28,Vex'ahlia,Healing,30,,,,,"Cure Wounds (4th), Scanlan heals 30 points"
+114,4:38:29,Scanlan,Wisdom Save,Unknown,Unknown,,,,Disregarded due to advantage
+114,4:38:28,Scanlan,Wisdom Save,15,17,,,,"Against Polymorph with advantage, Scanlan is a fox"
+114,4:41:21,Vax'ildan,Attack,Nat20,20,Y,,,Flametongue Dagger
+114,4:41:33,Vax'ildan,Damage,10,,,"8 to Fox!Scanlan, 2 to Scanlan",,Scanlan reverts to being a gnome
+114,4:43:14,Scanlan,Charisma Save,Unknown,Unknown,,,,Disregarded due to advantage
+114,4:43:14,Scanlan,Charisma Save,21,9,,,,"Against Banishment with advantage, Scanlan is banished"
+114,4:43:21,Grog,Charisma Save,12,11,,,,Disregarded due to advantage
+114,4:43:21,Grog,Charisma Save,20,19,,,,"Against Banishment with advantage, Grog is banished"
+114,4:45:04,Arkhan,Attack,31,17,,,,Fane-Eater Battleaxe
+114,4:45:25,Arkhan,Damage,30,,,30 to Vecna,,
+114,4:45:41,Arkhan,Attack,27,13,,,,Fane-Eater Battleaxe
+114,4:45:47,Arkhan,Damage,30,,,30 to Vecna,,
+114,4:46:07,Arkhan,Attack,23,9,,,,Fane-Eater Battleaxe
+114,4:46:16,Arkhan,Damage,25,,,25 to Vecna,,
+114,4:48:19,Keyleth,Healing,42,,,,,"Healing Touch (Planetar), Scanlan heals 42 points"
+114,4:52:05,Pike,Divine Intervention,60,,,,,Fails
+114,4:55:23,Percy,Attack,25,15,,,,Animus Sharpshooter
+114,4:55:51,Percy,Damage,27,,,27 (26 Piercing + 1 Psychic) to Vecna,,
+114,4:56:42,Grog,Attack,32,15,,,,Sword of Kas Reckless (advantage negated by aimed shot)
+114,4:57:05,Grog,Damage,33,,,33 to Vecna,,
+114,4:57:40,Percy,Attack,Unknown,Unknown,,,,Animus
+114,4:57:47,Percy,Damage,25,,,25 (24 Piercing + 1 Psychic) to Vecna,,
+114,4:57:53,Percy,Attack,Unknown,Unknown,,,,Animus
+114,4:58:45,Grog,Strength,Unknown,Unknown,,,,Disregarded due to advantage
+114,4:58:45,Grog,Strength,33,Unknown,,,,With advantage and inspiration (trammel)
+114,5:00:10,Grog,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+114,5:00:10,Grog,Attack,35,18,,,,Sword of Kas Reckless
+114,5:00:28,Grog,Damage,44,,,44 to Vecna,,
+114,5:00:59,Scanlan,Intelligence,22,19,,,,
+114,5:02:25,Vex'ahlia,Healing,22,,,,,"Cure Wounds (3rd), Scanlan heals 22 points"
+114,5:04:20,Vax'ildan,Athletics,22,20,,,,
+114,5:05:33,Arkhan,Athletics,30,19,,,,
+114,5:07:55,Keyleth,Athletics,23,16,,,,As Planetar
+114,5:12:50,Scanlan,Charisma,Nat20,20,,,,Counterspell
+114,5:15:00,Scanlan,Charisma Save,14,2,,,,Disregarded due to advantage
+114,5:15:00,Scanlan,Charisma Save,30,18,,,,Against Banishment with advantage
+114,5:16:42,Scanlan,Charisma Save,Unknown,Unknown,,,,Disregarded due to advantage
+114,5:16:42,Scanlan,Charisma Save,18,6,,,,"Against Banishment with advantage, Scanlan is banished"
+114,5:16:42,Grog,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+114,5:16:42,Grog,Attack,25,11,,,,Titanstonke Knuckles Reckless
+114,5:17:51,Grog,Damage,11,,,11 to Vecna,,
+114,5:18:19,Grog,Attack,36,19,Y,,,Sword of Kas Reckless
+114,5:18:19,Grog,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+114,5:19:01,Grog,Damage,58,,,58 to Vecna,,
+114,5:20:38,Vex'ahlia,Healing,12,,,,,"Cure Wounds (3rd), Percy heals 12 Points"
+114,5:20:56,Vex'ahlia,Healing,15,,,,,"Greater Healing Potion, Vex'ahlia heals 15 points"
+114,5:30:07,Grog,Strength Save,Unknown,Unknown,,,,Disregarded due to advantage
+114,5:30:07,Grog,Strength Save,22,8,,23 to Grog,,With advantage and Arkan's Aura of Protection (+4)
+114,5:30:13,Arkhan,Strength Save,17,12,,23 to Arkhan,,

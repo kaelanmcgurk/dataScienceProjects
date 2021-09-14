@@ -1,0 +1,131 @@
+Episode,Time,Character,Type of Roll,Total Value,Natural Value,Crit?,Damage Dealt,# Kills,Notes
+ExU1-01,0:08:42,Orym,Perception,9,,,,,
+ExU1-01,0:11:48,Dorian,Performance,14,,,,,
+ExU1-01,0:14:53,Fearne,Nature,15,,,,,
+ExU1-01,0:17:08,Fearne,Perception,16,,,,,
+ExU1-01,0:21:05,Dariax,Animal Handling,11,,,,,
+ExU1-01,0:21:48,Dariax,History,1,2,,,,
+ExU1-01,0:23:09,Dariax,Acrobatics,5,,,,,
+ExU1-01,0:27:04,Opal,Constitution Save,7,,,,,
+ExU1-01,0:32:53,Dorian,Investigation,Nat1,1,,,,
+ExU1-01,0:38:21,Dariax,Performance,Unknown,Unknown,,,,
+ExU1-01,0:38:28,Orym,Performance,20,,,,,
+ExU1-01,0:38:32,Opal,Performance,23,,,,,
+ExU1-01,0:40:07,Fearne,Performance,7,,,,,
+ExU1-01,0:40:13,Dorian,Performance,6,,,,,
+ExU1-01,0:40:36,Mister,Dexterity Save,10,,,,,
+ExU1-01,0:45:22,Dorian,Performance,22,18,,,,
+ExU1-01,0:45:22,Dorian,Performance,,9,,,,disregarded due to advantage
+ExU1-01,0:50:18,Orym,History,17,,,,,
+ExU1-01,0:53:48,Fearne,Persuasion,16,,,,,
+ExU1-01,0:53:57,Dorian,Insight,17,16,,,,
+ExU1-01,0:54:39,Fearne,Wisdom Save,8,,,,,
+ExU1-01,0:55:26,Dorian,Wisdom Save,8,,,,,
+ExU1-01,0:58:15,Orym,Perception,21,,,,,
+ExU1-01,0:58:15,Opal,Perception,12,,,,,
+ExU1-01,1:01:58,Dariax,Perception,17,,,,,
+ExU1-01,1:02:28,Orym,Stealth,18,,,,,
+ExU1-01,1:04:32,Fearne,Insight,7,,,,,
+ExU1-01,1:05:12,Orym,Intimidation,18,,,,,
+ExU1-01,1:05:56,Fearne,Arcana,8,,,,,
+ExU1-01,1:08:16,Dariax,Intelligence,1,2,,,,disregarded due to advantage (Inspiration)
+ExU1-01,1:08:16,Dariax,Intelligence,3,4,,,,
+ExU1-01,1:13:43,Opal,Performance,19,,,,,
+ExU1-01,1:18:58,Orym,Insight,8,,,,,
+ExU1-01,1:26:32,Orym,Insight,19,,,,,
+ExU1-01,1:26:34,Dariax,Persuasion,Nat20,20,,,,
+ExU1-01,1:29:09,Orym,Persuasion,Nat1,1,,,,
+ExU1-01,1:57:34,Opal,Acrobatics,19,,,,,
+ExU1-01,2:00:43,Dariax,Perception,3,,,,,
+ExU1-01,2:00:43,Fearne,Perception,16,,,,,
+ExU1-01,2:00:43,Opal,Perception,13,,,,,
+ExU1-01,2:00:43,Dorian,Perception,Unknown,,,,,
+ExU1-01,2:06:29,Fearne,Investigation,10,,,,,
+ExU1-01,2:07:53,Orym,History,17,,,,,
+ExU1-01,2:09:24,Dorian,Insight,6,,,,,
+ExU1-01,2:11:13,Dariax,Performance,Unknown,,,,,disregarded due to disadvantage
+ExU1-01,2:11:13,Dariax,Performance,Unknown,,,,,
+ExU1-01,2:11:13,Dorian,Performance,Unknown,,,,,disregarded due to disadvantage
+ExU1-01,2:11:13,Dorian,Performance,Unknown,,,,,
+ExU1-01,2:11:39,Opal,Persuasion,18,,,,,
+ExU1-01,2:12:08,Fearne,Investigation,18,,,,,
+ExU1-01,2:12:09,Orym,Athletics,17,,,,,
+ExU1-01,2:13:53,Fearne,Performance,Unknown,,,,,disregarded due to advantage
+ExU1-01,2:13:53,Fearne,Performance,Unknown,,,,,
+ExU1-01,2:16:26,Opal,Arcana,4,,,,,
+ExU1-01,2:18:14,Opal,Perception,Nat20,20,,,,
+ExU1-01,2:20:28,Dariax,Thieves' Tools,16,,,,,
+ExU1-01,2:21:45,Orym,Stealth,Nat1,1,,,,
+ExU1-01,2:22:09,Orym,Acrobatics,11,,,,,
+ExU1-01,2:23:19,Dorian,Acrobatics,16,,,,,
+ExU1-01,2:23:50,Dariax,Acrobatics,18,,,,,
+ExU1-01,2:24:08,Dariax,Arcana,17,,,,,
+ExU1-01,2:25:07,Fearne,Acrobatics,20,,,,,
+ExU1-01,2:25:07,Opal,Acrobatics,4,,,,,
+ExU1-01,2:26:53,Dorian,Arcana,10,,,,,
+ExU1-01,2:29:25,Fearne,Dexterity Save,Nat20,20,,,,disregarded due to disadvantage
+ExU1-01,2:29:25,Fearne,Dexterity Save,8,,,,,
+ExU1-01,2:30:42,Orym,Attack,,18,,,,Shortsword against Creature
+ExU1-01,2:30:42,Orym,Attack,Nat1,1,,,,disregarded due to Lucky
+ExU1-01,2:30:42,Orym,Attack,Unknown,,,,,disregarded due to disadvantage
+ExU1-01,2:31:47,Orym,Damage,9,,,9 to Creature,,
+ExU1-01,2:34:22,Dariax,Attack,23,19,,,,Spear against Box
+ExU1-01,2:36:35,Dorian,Sleight of Hand,Nat1,,,,,
+ExU1-01,2:40:20,Fearne,Investigation,9,,,,,
+ExU1-01,2:42:09,Dorian,Wisdom Save,2,,,,,disregarded due to advantage
+ExU1-01,2:42:09,Dorian,Wisdom Save,14,,,,,
+ExU1-01,2:46:02,Fearne,Perception,Unknown,,,,,disregarded due to advantage
+ExU1-01,2:46:02,Fearne,Perception,13,,,,,
+ExU1-01,2:52:55,Fearne,Animal Handling,12,,,,,
+ExU1-01,2:52:55,Fearne,Animal Handling,Nat1,1,,,,disregarded due to advantage
+ExU1-01,2:55:15,Orym,Stealth,Unknown,,,,,disregarded due to advantage
+ExU1-01,2:55:15,Orym,Stealth,Unknown,,,,,
+ExU1-01,2:55:15,Opal,Stealth,Unknown,,,,,disregarded due to advantage
+ExU1-01,2:55:15,Opal,Stealth,Unknown,,,,,
+ExU1-01,2:55:15,Fearne,Stealth,Unknown,,,,,disregarded due to advantage
+ExU1-01,2:55:15,Fearne,Stealth,6,,,,,
+ExU1-01,2:55:15,Dorian,Stealth,Unknown,,,,,
+ExU1-01,2:55:15,Dariax,Stealth,Unknown,,,,,
+ExU1-01,2:57:22,Opal,Intimidation,14,,,,,
+ExU1-01,3:06:04,Opal,Persuasion,7,,,,,
+ExU1-01,3:07:39,Opal,Deception,18,,,,,
+ExU1-01,3:09:42,Orym,Perception,23,,,,,
+ExU1-01,3:09:42,Fearne,Perception,18,,,,,
+ExU1-01,3:11:08,Orym,Initiative,19,,,,,
+ExU1-01,3:11:08,Opal,Initiative,19,,,,,
+ExU1-01,3:11:08,Dariax,Initiative,13,,,,,
+ExU1-01,3:11:08,Fearne,Initiative,12,,,,,
+ExU1-01,3:11:08,Dorian,Initiative,8,,,,,
+ExU1-01,3:15:19,Opal,Spell Attack,13,,,,,Witch Bolt against Assassin 1
+ExU1-01,3:15:35,Opal,Damage,11,,,11 to Assassin 1,1,Assassin 1 dies
+ExU1-01,3:16:08,Opal,Investigation,16,,,,,
+ExU1-01,3:16:59,Orym,Attack,19,,,,,Thrown dagger against Assassin 2
+ExU1-01,3:17:13,Orym,Damage,7,,,7 to Assassin 2,,
+ExU1-01,3:20:05,Fearne,Spell Attack,14,,,,,Ice Knife against Assassin 3
+ExU1-01,3:25:09,Orym,Other,3,,,,,"Superiority Die, Opal gains 3 to her AC"
+ExU1-01,3:25:23,Orym,Attack,Unknown,,,,,Thrown Dagger against Assassin
+ExU1-01,3:26:02,Opal,Spell Attack,6,,,,,Eldritch Blast against Assassin 3
+ExU1-01,3:28:02,Dariax,Healing,5,,,Opal heals 5,,Cure Wounds
+ExU1-01,3:29:35,Fearne,Damage,14,,,14 Fire to Assassin 3,,
+ExU1-01,3:32:45,Dorian,Attack,Nat1,1,,,,Moontouched Scimitar against Assassin 2
+ExU1-01,3:33:40,Dorian,Attack,12,,,,,Handaxe against Assassin 2
+ExU1-01,3:33:57,Dorian,Damage,5,,,5 to Assassin 2,,
+ExU1-01,3:36:12,Orym,Attack,9,,,,,Shortsword against Assassin 4
+ExU1-01,3:26:26,Orym,Attack,24,18,,,,Shortsword against Assassin 4
+ExU1-01,3:36:29,Orym,Damage,8,,,8 to Assassin 4,,
+ExU1-01,3:38:21,Opal,Attack,18,,,,1,"Thrown dagger against Assassin 3, Assassin 3 dies"
+ExU1-01,3:39:27,Opal,Attack,18,,,Opal heals 5,1,"Thrown dagger against Assassin 2, Assassin 2 dies, HDYWTDT"
+ExU1-01,3:43:18,Dariax,Damage,8,,,8 Radiant to Assassin 4,1,"Sacred Flame, Assassin 4 dies, HDYWTDT"
+ExU1-01,3:45:19,Dariax,Arcana,13,12,,,,
+ExU1-01,3:48:17,Dariax,Healing,7,,,Dariax heals 7,,Cure Wounds
+ExU1-01,3:48:48,Orym,Investigation,12,,,,,
+ExU1-01,3:49:25,Dariax,Thieves' Tools,Nat1,1,,,,
+ExU1-01,3:50:23,Orym,Attack,9,,,,,Shortsword against Hinge 1
+ExU1-01,3:51:05,Orym,Damage,9,,,9 to Hinge 1,,
+ExU1-01,3:51:28,Orym,Attack,Nat1,,,,,disregarded due to Lucky
+ExU1-01,3:51:28,Orym,Attack,Unknown,,,,,Shortsword against Hinge 2
+ExU1-01,3:52:03,Fearne,Athletics,Unknown,,,,,disregarded due to advantage
+ExU1-01,3:52:03,Fearne,Athletics,7,,,1 to Fearne,,
+ExU1-01,3:52:51,Opal,Spell Attack,13,,,,,Eldritch Blast against Door
+ExU1-01,3:53:06,Opal,Damage,9,,,9 to Door,,
+ExU1-01,3:56:20,Opal,Arcana,15,,,,,

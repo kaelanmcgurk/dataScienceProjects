@@ -1,0 +1,148 @@
+Episode,Time,Character,Type of Roll,Total Value,Natural Value,Crit?,Damage Dealt,# Kills,Notes
+ExU1-02,0:10:41,Opal,Perception,8,,,,,
+ExU1-02,0:10:41,Dorian,Perception,11,,,,,
+ExU1-02,0:10:41,Orym,Perception,11,,,,,
+ExU1-02,0:10:41,Fearne,Perception,,20,Y,,,
+ExU1-02,0:10:41,Dariax,Perception,12,,,,,
+ExU1-02,0:13:36,Fearne,Dexterity Save,Unknown,Unknown,,,,disregarded due to advantage
+ExU1-02,0:13:36,Fearne,Dexterity Save,18,,,,,
+ExU1-02,0:15:28,Dariax,Deception,19,,,,,
+ExU1-02,0:16:27,Orym,Stealth,23,,,,,
+ExU1-02,0:16:27,Dorian,Stealth,13,,,,,
+ExU1-02,0:16:27,Fearne,Stealth,Unknown,Unknown,,,,disregarded due to disadvantage
+ExU1-02,0:16:27,Fearne,Stealth,6,,,,,
+ExU1-02,0:16:27,Opal,Stealth,7,,,,,
+ExU1-02,0:21:54,Dorian,Attack,12,,,,,Scimitar against Thug 1
+ExU1-02,0:24:11,Dorian,Initiative,22,,,,,
+ExU1-02,0:24:11,Opal,Initiative,16,,,,,
+ExU1-02,0:24:11,Dariax,Initiative,16,,,,,
+ExU1-02,0:24:11,Orym,Initiative,17,,,,,
+ExU1-02,0:24:11,Fearne,Initiative,10,,,,,
+ExU1-02,0:25:44,Dorian,Attack,12,,,,,Handaxe against Thug 1
+ExU1-02,0:26:22,Dorian,Scimitar,14,,,,,Scimitar against Thug 1
+ExU1-02,0:27:27,Dorian,Strength Save,8,,,,,Dorian is grappled
+ExU1-02,0:28:46,Orym,Attack,24,,,,,Sword hilt against Thug 1
+ExU1-02,0:28:55,Orym,Damage,9,,,9 to Thug 1,,
+ExU1-02,0:30:40,Dariax,Attack,8,,,,,Spear against Thug 1
+ExU1-02,0:32:52,Dorian,Strength Save,16,,,,,
+ExU1-02,0:32:52,Dariax,Strength Save,18,,,,,
+ExU1-02,0:32:52,Orym,Strength Save,5,,,,,Orym is grappled
+ExU1-02,0:36:31,Dorian,Damage,12,,,6 (12/2) Psychic to Thug 1,,
+ExU1-02,0:37:40,Dorian,Athletics,,20,Y,,,Dorian breaks the grapple
+ExU1-02,0:43:22,Dariax,Attack,23,19,,,,Spear against Thug 1
+ExU1-02,0:43:30,Dariax,Damage,9,,,9 to Thug 1,,
+ExU1-02,0:44:38,Opal,Persuasion,,20,Y,,,disregarded due to disadvantage
+ExU1-02,0:44:38,Opal,Persuasion,15,,,,,
+ExU1-02,0:46:14,Opal,Spell Attack,,20,Y,,,
+ExU1-02,0:46:57,Opal,Damage,15,,,15 Force to Arthur,,
+ExU1-02,0:51:05,Orym,Survival,8,,,,,
+ExU1-02,0:51:56,Fearne,Survival,Unknown,Unknown,,,,disregarded due to advantage
+ExU1-02,0:51:56,Fearne,Survival,19,,,,,
+ExU1-02,0:57:09,Dariax,History,4,,,,,
+ExU1-02,0:57:09,Opal,History,12,,,,,
+ExU1-02,0:57:09,Dorian,History,10,,,,,
+ExU1-02,0:58:45,Dariax,Constitution Save,11,,,,,
+ExU1-02,1:01:21,Dorian,Constitution Save,17,,,,,
+ExU1-02,1:05:09,Opal,Arcana,20,,,,,
+ExU1-02,1:06:49,Dariax,Religion,16,,,,,
+ExU1-02,1:06:49,Orym,Religion,17,,,,,
+ExU1-02,1:06:49,Dorian,Religion,16,,,,,
+ExU1-02,1:06:49,Fearne,Religion,16,,,,,
+ExU1-02,1:06:49,Opal,Religion,3,,,,,
+ExU1-02,1:17:53,Fearne,Wisdom Save,,20,Y,,,
+ExU1-02,1:21:18,Dariax,Investigation,15,,,,,
+ExU1-02,1:23:35,Orym,Perception,19,,,,,
+ExU1-02,1:24:27,Fearne,Perception,22,19,,,,
+ExU1-02,1:25:37,Opal,Charisma,13,,,,,
+ExU1-02,1:28:04,Opal,Charisma,13,,,,,
+ExU1-02,1:29:36,Opal,Perception,11,,,,,
+ExU1-02,1:30:31,Dorian,Perception,12,,,,,
+ExU1-02,1:57:52,Orym,Deception,4,,,,,
+ExU1-02,1:57:52,Opal,Deception,8,,,,,
+ExU1-02,,Dorian,Insight,14,,,,,
+ExU1-02,2:04:48,Fearne,Insight,7,,,,,
+ExU1-02,2:14:10,Fearne,Nature,18,,,,,
+ExU1-02,2:15:28,Dorian,Dexterity Save,13,,,,,
+ExU1-02,2:15:28,Orym,Dexterity Save,15,,,,,
+ExU1-02,2:15:28,Fearne,Dexterity Save,20,,,,,
+ExU1-02,2:15:28,Dariax,Dexterity Save,21,,,,,
+ExU1-02,2:20:05,Dariax,Wisdom Save,1,2,,,,
+ExU1-02,2:23:02,Opal,Investigation,13,,,,,
+ExU1-02,2:23:33,Opal,Athletics/Acrobatics,Unknown,Unknown,,,,disregarded due to advantage
+ExU1-02,2:23:33,Opal,Athletics/Acrobatics,19,,,,,
+ExU1-02,2:23:33,Orym,Acrobatics,21,,,,,
+ExU1-02,2:23:33,Fearne,Athletics/Acrobatics,,1,Y,,,
+ExU1-02,2:23:33,Dariax,Athletics/Acrobatics,,1,Y,,,
+ExU1-02,2:25:46,Fearne,Athletics/Acrobatics,9,,,,,
+ExU1-02,2:28:04,Fearne,Perception,Unknown,Unknown,,,,disregarded due to disadvantage
+ExU1-02,2:28:04,Fearne,Perception,,1,Y,,,
+ExU1-02,2:30:23,Dorian,Perception,Unknown,Unknown,,,,disregarded due to disadvantage
+ExU1-02,2:30:23,Dorian,Perception,5,,,,,
+ExU1-02,2:31:19,Opal,Constitution Save,10,,,,,
+ExU1-02,2:31:26,Dariax,Constitution Save,8,,,,,Dariax takes 1 point of exhaustion
+ExU1-02,2:31:28,Fearne,Constitution Save,20,,,,,
+ExU1-02,2:31:28,Dorian,Constitution Save,6,,,,,Dorian takes 1 point of exhaustion
+ExU1-02,2:31:31,Orym,Constitution Save,14,,,,,
+ExU1-02,2:34:02,Orym,Investigation,18,17,,,,
+ExU1-02,2:34:02,Orym,Investigation,,20,Y,,,disregarded due to disadvantage
+ExU1-02,2:35:52,Orym,Constitution Save,10,,,,,Orym takes 1 point of exhaustion
+ExU1-02,2:40:25,Orym,Intelligence,8,,,,,
+ExU1-02,2:41:36,Dariax,Constitution Save,Unknown,Unknown,,,,disregarded due to advantage
+ExU1-02,2:41:36,Dariax,Constitution Save,14,,,,,
+ExU1-02,2:41:38,Opal,Constitution Save,Unknown,Unknown,,,,disregarded due to advantage
+ExU1-02,2:41:38,Opal,Constitution Save,12,,,,,
+ExU1-02,2:41:39,Fearne,Constitution Save,Unknown,Unknown,,,,disregarded due to advantage
+ExU1-02,2:41:39,Fearne,Constitution Save,16,,,,,
+ExU1-02,2:41:39,Orym,Constitution Save,Unknown,Unknown,,,,disregarded due to advantage
+ExU1-02,2:41:39,Orym,Constitution Save,13,,,,,
+ExU1-02,2:42:28,Fearne,Arcana,5,,,,,
+ExU1-02,2:46:35,Dorian,Survival,18,,,,,
+ExU1-02,2:47:52,Dorian,Constitution Save,8,,,,,Dorian takes 1 point of exhaustion (total 2)
+ExU1-02,2:49:59,Dorian,History,4,,,,,
+ExU1-02,2:54:52,Opal,Investigation,16,,,,,
+ExU1-02,2:56:40,Fearne,Arcana,5,,,,,
+ExU1-02,3:00:34,Dariax,Attack,12,,,,,Thrown rock against Sigil
+ExU1-02,3:11:48,Opal,Constitution Save,Unknown,Unknown,,,,disregarded due to advantage
+ExU1-02,3:11:48,Opal,Constitution Save,17,,,,,
+ExU1-02,3:11:49,Dariax,Constitution Save,Unknown,Unknown,,,,disregarded due to advantage
+ExU1-02,3:11:49,Dariax,Constitution Save,18,,,,,
+ExU1-02,3:11:51,Fearne,Constitution Save,Unknown,Unknown,,,,disregarded due to advantage
+ExU1-02,3:11:51,Fearne,Constitution Save,5,,,,,Fearne takes 1 point of exhaustion
+ExU1-02,3:11:55,Orym,Constitution Save,Unknown,Unknown,,,,disregarded due to advantage
+ExU1-02,3:11:55,Orym,Constitution Save,Unknown,Unknown,,,,Orym takes 1 point of exhaustion (total 2)
+ExU1-02,3:16:01,Dariax,Initiative,Unknown,Unknown,,,,disregarded due to disadvantage
+ExU1-02,3:16:01,Dariax,Initiative,4,,,,,
+ExU1-02,3:16:02,Dorian,Initiative,Unknown,Unknown,,,,disregarded due to disadvantage
+ExU1-02,3:16:02,Dorian,Initiative,7,,,,,
+ExU1-02,3:16:06,Fearne,Initiative,Unknown,Unknown,,,,disregarded due to disadvantage
+ExU1-02,3:16:06,Fearne,Initiative,8,,,,,
+ExU1-02,3:16:08,Orym,Initiative,Unknown,Unknown,,,,disregarded due to disadvantage
+ExU1-02,3:16:08,Orym,Initiative,10,,,,,
+ExU1-02,3:16:08,Opal,Initiative,13,,,,,
+ExU1-02,3:17:25,Opal,Spell Attack,14,,,,,Eldritch Blast against Ash Elemental
+ExU1-02,3:18:18,Opal,Attack,15,,,,,Thrown dagger against Ash Elemental
+ExU1-02,3:18:55,Opal,Damage,7,,,7 to Ash Elemental,,
+ExU1-02,3:19:07,Dorian,Dexterity Save,14,,,,,
+ExU1-02,3:22:29,Fearne,Attack,14,,,,,Direwolf Bite against Vapor Tendril 2
+ExU1-02,3:22:38,Fearne,Damage,14,,,14 to Vapor Tendril 2,,Vapor Tendril 2 disappears
+ExU1-02,3:26:49,Opal,Attack,22,,,,,Dagger against Vapor Tendril 1 with Bless
+ExU1-02,3:27:02,Opal,Damage,6,,,6 to Vapor Tendril 1,,
+ExU1-02,3:27:20,Opal,Attack,18,,,,,Dagger against Vapor Tendril 1 with Bless
+ExU1-02,3:27:23,Opal,Damage,7,,,7 to Vapor Tendril 1,,Vapor Tendril 1 disappears
+ExU1-02,3:28:18,Orym,Other,3,,,,,Bait and Switch
+ExU1-02,3:29:13,Dorian,Intelligence,,20,Y,,,
+ExU1-02,3:29:58,Dorian,Damage,8,,,8 Psychic to Ash Elemental,,
+ExU1-02,3:32:53,Dariax,Attack,,1,Y,,,Spear against Mister
+ExU1-02,3:34:24,Orym,Attack,16,,,,,Sword against Dariax
+ExU1-02,3:34:46,Orym,Damage,7,,,7 to Dariax,,
+ExU1-02,3:35:48,Dariax,Healing,7,,,Dariax heals 7,,
+ExU1-02,3:43:44,Dariax,Persuasion,Unknown,Unknown,,,,disregarded due to advantage (DM Inspiration)
+ExU1-02,3:43:44,Dariax,Persuasion,18,,,,,
+ExU1-02,3:45:20,Opal,Constitution Save,Unknown,Unknown,,,,disregarded due to advantage
+ExU1-02,3:45:20,Opal,Constitution Save,18,,,,,
+ExU1-02,3:45:21,Orym,Constitution Save,Unknown,Unknown,,,,disregarded due to advantage
+ExU1-02,3:45:21,Orym,Constitution Save,,20,Y,,,
+ExU1-02,3:45:23,Fearne,Constitution Save,Unknown,Unknown,,,,disregarded due to advantage
+ExU1-02,3:45:23,Fearne,Constitution Save,,19,,,,
+ExU1-02,3:45:27,Dariax,Constitution Save,Unknown,Unknown,,,,disregarded due to advantage
+ExU1-02,3:45:27,Dariax,Constitution Save,15,,,,,

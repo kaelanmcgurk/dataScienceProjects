@@ -1,0 +1,165 @@
+Episode,Time,Character,Type of Roll,Total Value,Natural Value,Crit?,Damage Dealt,# Kills,Notes
+ExU1-04,0:06:28,Fearne,Animal Handling,Nat1,1,,,,
+ExU1-04,0:07:37,Dariax,Animal Handling,12,,,,,
+ExU1-04,0:08:03,Dariax,Dexterity Save,10,,,,,
+ExU1-04,0:08:19,Dariax,Dexterity Save,4,,,,,"disregarded due to advantage, Favored by the Gods"
+ExU1-04,0:09:55,Fearne,Athletics,4,,,,,
+ExU1-04,0:12:05,Dariax,Animal Handling,3,,,,,
+ExU1-04,0:12:48,Orym,Acrobatics,21,,,,,
+ExU1-04,0:13:21,Orym,Animal Handling,10,,,,,
+ExU1-04,0:18:17,Fearne,Wisdom Save,12,,,,,
+ExU1-04,0:20:50,Opal,Survival or History,15,,,,,
+ExU1-04,0:21:58,Orym,Arcana,18,,,,,
+ExU1-04,0:21:58,Dariax,Arcana,Nat20,20,,,,
+ExU1-04,0:24:00,Opal,Perception,4,,,,,
+ExU1-04,0:28:25,Fearne,Wisdom Save,7,2,,,,
+ExU1-04,0:39:35,Dariax,Arcana,1,2,,,,
+ExU1-04,0:47:05,Orym,Insight,11,,,,,
+ExU1-04,0:48:02,Fearne,Insight,16,,,,,
+ExU1-04,0:50:34,Fearne,Perception,17,,,,,
+ExU1-04,0:55:56,Orym,Initiative,21,,,,,
+ExU1-04,0:55:56,Fearne,Initiative,21,,,,,
+ExU1-04,0:55:56,Fy'ra,Initiative,19,,,,,
+ExU1-04,0:55:56,Opal,Initiative,13,,,,,
+ExU1-04,0:55:56,Dorian,Initiative,8,,,,,
+ExU1-04,0:55:56,Dariax,Initiative,Nat1,1,,,,
+ExU1-04,1:03:42,Fearne,Spell Attack,22,,,,,Thorn Whip (Dark Mister)
+ExU1-04,1:05:45,Opal,Spell Attack,20,,,,,Poison Spray
+ExU1-04,1:07:32,Opal,Attack,12,,,,,Vicious Whip against Scorpion
+ExU1-04,1:09:30,Dorian,Attack,16,,,,,Moontouched Scimitar against Scorpion
+ExU1-04,1:10:02,Dorian,Damage,8,,,8 to Scorpion,,
+ExU1-04,1:12:43,Dariax,Strength Save,16,,,,,
+ExU1-04,1:12:52,Dariax,Constitution Save,11,,,,,
+ExU1-04,1:13:13,Dorian,Strength Save,,2,,,,
+ExU1-04,1:13:52,Fy'ra,Attack,14,,,,,Staff (expanded) against Scorpion
+ExU1-04,1:14:00,Fy'ra,Other,2,,,,,Bless
+ExU1-04,1:14:20,Fy'ra,Damage,9,,,9 to Scorpion,,
+ExU1-04,1:14:54,Fy'ra,Attack,23,,,,,Staff (contracted) against Scorpion
+ExU1-04,1:15:18,Fy'ra,Damage,6,,,6 to Scorpion,,
+ExU1-04,1:15:20,Orym,Attack,12,,,,,Sword against Scorpion
+ExU1-04,1:15:46,Fearne,Attack,11,,,,,Staff of the Python against Scorpion
+ExU1-04,1:16:20,Orym,Attack,18,,,,,Sword against Scorpion
+ExU1-04,1:16:24,Orym,Damage,6,,,6 to Scorpion,1,"Scorpion dies, HDYWTDT"
+ExU1-04,1:19:05,Fearne,Attack,17,,,,,Claw against Dark Fearne
+ExU1-04,1:19:07,Fearne,Other,4,,,,,Bless
+ExU1-04,1:19:15,Fearne,Damage,10,,,10 acid to Dark Fearne,,
+ExU1-04,1:19:50,Fearne,Dexterity Save,12,,,,,
+ExU1-04,1:19:56,Fearne,Other,1,,,,,Bless
+ExU1-04,1:22:01,Mister,Attack,Nat20,20,,,,Flame Seed against Dark Fearne
+ExU1-04,1:22:10,Mister,Damage,14,,,7 (14/2) Fire to Dark Fearne,,
+ExU1-04,1:24:25,Fy'ra,Attack,23,,,,,Staff (expanded) against Dark Fearne
+ExU1-04,1:24:50,Fy'ra,Damage,9,,,9 to Dark Fearne,,
+ExU1-04,1:25:10,Fy'ra,Attack,19,,,,,Staff (contracted) against Dark Fearne
+ExU1-04,1:25:26,Fy'ra,Damage,4,,,4 to Dark Fearne,,
+ExU1-04,1:25:58,Orym,Dexterity Save,Nat20,20,,,,
+ExU1-04,1:25:58,Fy'ra,Dexterity Save,8,,,,,
+ExU1-04,1:25:58,Fy'ra,Other,1,,,,,Bless
+ExU1-04,1:25:58,Fearne,Dexterity Save,17,,,,,disregarded due to advantage
+ExU1-04,1:25:58,Fearne,Dexterity Save,18,,,,,with Bless
+ExU1-04,1:28:04,Mister,Strength Save,19,,,,,
+ExU1-04,1:29:52,Opal,Attack,12,,,,,Dagger against Scorpion with Bless
+ExU1-04,1:30:09,Opal,Attack,21,,,,,Dagger against Scorpion with Bless
+ExU1-04,1:30:28,Opal,Damage,5,,,5 to Scorpion,,
+ExU1-04,1:32:58,Dorian,Damage,7,,,"7 to Scorpion, 7 to Scorpion",,Thunderwave
+ExU1-04,1:35:03,Dariax,Healing,11,,,Mister heals 11,,
+ExU1-04,1:37:02,Opal,Strength Save,11,,,,,
+ExU1-04,1:37:02,Dorian,Strength Save,10,,,,,
+ExU1-04,1:37:37,Mister,Strength Save,16,,,,,
+ExU1-04,1:38:26,Orym,Attack,Nat20,20,,,,Sword against Dark Fearne
+ExU1-04,1:38:30,Orym,Attack,Unknown,Unknown,,,,Sword against Dark Fearne
+ExU1-04,1:38:40,Orym,Damage,14,,,14 to Dark Fearne,,
+ExU1-04,1:38:46,Orym,Damage,10,,,10 to Dark Fearne,,
+ExU1-04,1:39:05,Orym,Other,2,,,,,Bait and Switch Superiority die
+ExU1-04,1:38:34,Orym,Dexterity Save,17,,,7 Fire to Orym,,
+ExU1-04,1:42:04,Fearne,Wisdom,17,,,,,
+ExU1-04,1:44:10,Mister,Attack,23,,,,,Flaming Seed against Dark Fearne
+ExU1-04,1:44:49,Mister,Damage,7,,,3 (7/2) to Dark Fearne,,
+ExU1-04,1:46:02,Fy'ra,Attack,13,,,,,Staff (expanded) against Dark Fearne
+ExU1-04,1:46:30,Fy'ra,Attack,18,,,,,Staff (contracted) against Dark Fearne
+ExU1-04,1:46:38,Fy'ra,Other,4,,,,,Bless
+ExU1-04,1:46:48,Fy'ra,Attack,,2,,,,Staff (contracted) against Dark Fearne
+ExU1-04,1:46:50,Fy'ra,Damage,5,,,5 to Dark Fearne,1,"Dark Fearne dies, HDYWTDT"
+ExU1-04,1:50:46,Opal,Attack,22,,,,,Dagger against Scorpion
+ExU1-04,1:50:51,Opal,Other,2,,,,,Bless
+ExU1-04,1:51:02,Opal,Damage,6,,,6 to Scorpion,,
+ExU1-04,1:52:32,Dorian,Attack,15,,,,,Moontouched Scimitar
+ExU1-04,1:52:42,Dorian,Damage,6,,,6 to Scorpion,,
+ExU1-04,1:53:55,Dariax,Damage,14,,,14 fire to Scorpion and Scorpion,2,"Burning Hands, 2 Scorpions die"
+ExU1-04,1:54:41,Fy'ra,Strength Save,,18,,,,
+ExU1-04,1:55:15,Opal,Strength Save,21,Unknown,,,,with Bless
+ExU1-04,1:55:37,Opal,Constitution Save,11,Unknown,,,,with Bless
+ExU1-04,2:15:41,Fearne,Arcana,21,,,,,
+ExU1-04,2:18:28,Opal,Insight,14,,,,,
+ExU1-04,2:22:18,Dariax,Attack,25,19,,,1,"Spear against Dark Mister, Dark Mister dies (with Inspiration)"
+ExU1-04,2:24:04,Fearne,Healing,12,,,Opal heals 12,,Opal is conscious
+ExU1-04,2:24:52,Dorian,Healing,1,,,Opal heals 1,,
+ExU1-04,2:26:21,Opal,Spell Attack,19,,,,,Eldritch Blast
+ExU1-04,2:27:48,Dorian,Wisdom Save,7,Unknown,,,,"disregarded due to advantage, with Bless"
+ExU1-04,2:27:48,Dorian,Wisdom Save,4,Unknown,,,,"disregarded due to advantage, with Bless"
+ExU1-04,2:27:48,Dorian,Wisdom Save,9,Unknown,,,,with Bless
+ExU1-04,2:27:48,Dariax,Wisdom Save,Unknown,,,,,disregarded due to advantage (Favored by the Gods)
+ExU1-04,2:27:48,Dariax,Wisdom Save,16,,,,,
+ExU1-04,2:27:48,Orym,Wisdom Save,Unknown,Unknown,,,,disregarded due to advantage (DM inspiration)
+ExU1-04,2:27:48,Orym,Wisdom Save,28,,,,,
+ExU1-04,2:27:48,Opal,Wisdom Save,18,,,,,
+ExU1-04,2:30:17,Fearne,History,8,,,,,
+ExU1-04,2:33:01,Fearne,Persuasion,12,,,,,
+ExU1-04,2:34:02,Fy'ra,Intelligence,15,,,,,
+ExU1-04,2:37:10,Opal,Wisdom Save,9,,,,,
+ExU1-04,2:40:19,Fy'ra,Perception,Unknown,,,,,disregarded due to disadvantage
+ExU1-04,2:40:19,Fy'ra,Perception,13,,,,,
+ExU1-04,2:41:31,Fy'ra,Arcana,15,,,,,
+ExU1-04,2:44:32,Fearne,Persuasion,21,,,,,
+ExU1-04,2:51:32,Orym,Insight,15,,,,,disregarded due to advantage
+ExU1-04,2:51:32,Orym,Insight,19,,,,,
+ExU1-04,3:09:19,Orym,Dexterity Save,21,,,,,
+ExU1-04,3:10:25,Orym,Other,1,,,,,"d8, pie success"
+ExU1-04,3:17:12,Orym,Other,6,,,,,"d6, interview order (as Cinna)"
+ExU1-04,3:17:12,Dariax,Other,5,,,,,"d6, interview order"
+ExU1-04,3:17:12,Opal,Other,5,,,,,"d6, interview order"
+ExU1-04,3:19:23,Orym,Persuasion,5,,,,,as Cinna
+ExU1-04,3:22:14,Dariax,Persuasion,Nat1,1,,,,
+ExU1-04,3:26:57,Dorian,Persuasion,Unknown,,,,,disregarded due to disadvantage
+ExU1-04,3:26:57,Dorian,Persuasion,10,,,,,
+ExU1-04,3:30:07,Fy'ra,Persuasion,21,,,,,as Lisle
+ExU1-04,3:31:28,Fearne,Persuasion,Nat1,1,,,,
+ExU1-04,3:33:10,Fearne,Other,6,,,,,"d6, talent order"
+ExU1-04,3:35:11,Opal,Perception,Nat20,20,,,,
+ExU1-04,3:39:11,Fy'ra,Animal Handling,8,,,,,as Lisle
+ExU1-04,3:39:44,Fy'ra,Dexterity Save,20,,,,,as Lisle
+ExU1-04,3:40:30,Fy'ra,Performance,Unknown,,,,,"as Lisle, with advantage"
+ExU1-04,3:40:30,Fy'ra,Performance,15,,,,,
+ExU1-04,3:41:42,Orym,Constitution Save,19,,,,,
+ExU1-04,3:43:07,Orym,Attack,19,,,,,"as Cinna, handaxe against Orym"
+ExU1-04,3:43:47,Orym,Attack,23,17,,,,"as Cinna, handaxe against Orym"
+ExU1-04,3:44:57,Orym,Attack,Nat20,20,,,,"as Cinna, handaxe against Orym"
+ExU1-04,3:44:57,Orym,Performance,Unknown,Unknown,,,,"as Cinna, disregarded due to advantage"
+ExU1-04,3:44:57,Orym,Performance,17,,,,,as Cinna
+ExU1-04,3:49:44,Opal,Performance,,2,,,,
+ExU1-04,3:51:04,Dorian,Performance,17,,,,,
+ExU1-04,3:51:15,Fearne,Performance,22,,,,,
+ExU1-04,3:52:05,Dariax,Performance,Unknown,Unknown,,,,disregarded due to advantage
+ExU1-04,3:52:05,Dariax,Performance,18,,,,,
+ExU1-04,3:52:25,Opal,Performance,Unknown,Unknown,,,,disregarded due to advantage
+ExU1-04,3:52:25,Opal,Performance,20,,,,,with Bardic Inspiration
+ExU1-04,3:56:07,Dariax,Other,5,,,,,"d6, evening gown order"
+ExU1-04,3:56:07,Fearne,Other,5,,,,,"d6, evening gown order"
+ExU1-04,3:59:53,Dariax,d20,Unknown,Unknown,,,,disregarded due to advantage
+ExU1-04,3:59:53,Dariax,d20,12,,,,,
+ExU1-04,4:02:08,Dorian,d20,Unknown,Unknown,,,,disregarded due to advantage
+ExU1-04,4:02:08,Dorian,d20,20,,,,,plus 6
+ExU1-04,4:04:36,Fy'ra,d20,Unknown,Unknown,,,,"as Lisle, disregarded due to advantage"
+ExU1-04,4:04:36,Fy'ra,d20,15,,,,,plus 2
+ExU1-04,4:06:33,Opal,d20,13,,,,,plus 6
+ExU1-04,4:08:05,Opal,d20,22,,,,,plus 6
+ExU1-04,4:10:22,Orym,d20,21,,,,,"as Cinna, plus 5"
+ExU1-04,4:12:17,Fearne,d20,Unknown,Unknown,,,,disregarded due to advantage
+ExU1-04,4:12:17,Fearne,d20,22,,,,,plus 6
+ExU1-04,4:18:27,Fy'ra,Perception,5,,,,,
+ExU1-04,4:22:00,Fearne,Hit Dice,1,,,,,disregarded
+ExU1-04,4:22:40,Dariax,Hit Dice,2,,,,,
+ExU1-04,4:22:43,Fy'ra,Hit Dice,8,,,,,
+ExU1-04,4:23:23,Dorian,Hit Dice,4,,,,,
+ExU1-04,4:23:25,Orym,Hit Dice,9,,,,,
+ExU1-04,4:23:32,Fearne,Hit Dice,3,,,,,
+ExU1-04,4:23:44,Opal,Hit Dice,6,,,,,

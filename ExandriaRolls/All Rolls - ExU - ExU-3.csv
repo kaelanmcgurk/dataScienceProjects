@@ -1,0 +1,88 @@
+Episode,Time,Character,Type of Roll,Total Value,Natural Value,Crit?,Damage Dealt,# Kills,Notes
+ExU1-03,0:10:34,Opal,Performance,Unknown,Unknown,,,,disregarded due to advantage
+ExU1-03,0:10:34,Opal,Performance,17,,,,,
+ExU1-03,0:12:55,Orym,Insight,10,,,,,
+ExU1-03,0:18:00,Dariax,History,Nat1,1,,,,
+ExU1-03,0:21:41,Fearne,Other,7,,,,,2d10
+ExU1-03,0:22:27,Dariax,Arcana,5,,,,,
+ExU1-03,0:24:05,Orym,Perception,9,,,,,
+ExU1-03,0:26:44,Dariax,Performance,7,,,,,
+ExU1-03,0:28:36,Dariax,Persuasion,Unknown,,,,,disregarded due to advantage
+ExU1-03,0:28:36,Dariax,Persuasion,20,,,,,
+ExU1-03,0:29:53,Fearne,Stealth,5,,,,,
+ExU1-03,0:30:06,Orym,Stealth,Unknown,,,,,disregarded due to advantage
+ExU1-03,0:30:06,Orym,Stealth,22,,,,,
+ExU1-03,0:30:08,Dorian,Stealth,Unknown,,,,,disregarded due to advantage
+ExU1-03,0:30:08,Dorian,Stealth,8,,,,,
+ExU1-03,0:30:09,Opal,Stealth,Unknown,,,,,disregarded due to advantage
+ExU1-03,0:30:09,Opal,Stealth,19,,,,,
+ExU1-03,0:33:09,Fearne,Performance,21,18,,,,disregarded due to disadvantage
+ExU1-03,0:33:09,Fearne,Performance,Nat20,20,,,,
+ExU1-03,0:33:17,Dorian,Performance,14,,,,,
+ExU1-03,0:34:22,Opal,Deception,Nat20,20,,,,disregarded due to disadvantage
+ExU1-03,0:34:22,Opal,Deception,Nat20,20,,,,
+ExU1-03,0:36:58,Fearne,Perception,Nat1,1,,,,
+ExU1-03,0:37:07,Dariax,Perception,Nat1,1,,,,
+ExU1-03,0:37:32,Dorian,Perception,11,,,,,
+ExU1-03,0:40:01,Fearne,Other,4,,,,,d12 for gold
+ExU1-03,0:43:33,Fearne,Perception,Nat1,1,,,,
+ExU1-03,0:43:38,Dariax,Perception,13,,,,,
+ExU1-03,0:45:01,Dorian,Perception,12,,,,,
+ExU1-03,0:43:38,Dorian,Perception,Nat1,1,,,,
+ExU1-03,0:49:20,Fearne,Constiution Save,10,,,1 to Fearne,,Fearne is poisoned
+ExU1-03,0:50:42,Dariax,Perception/Investigation,Unknown,Unknown,,,,disregarded due to advantage (inspiration)
+ExU1-03,0:50:42,Dariax,Perception/Investigation,14,,,,,
+ExU1-03,0:50:48,Opal,Perception/Investigation,Unknown,Unknown,,,,disregarded due to advantage (inspiration)
+ExU1-03,0:50:48,Opal,Perception/Investigation,10,,,,,
+ExU1-03,0:50:49,Dorian,Perception/Investigation,20,,,,,
+ExU1-03,0:52:59,Opal,Stealth,16,,,,,
+ExU1-03,0:53:19,Fearne,Stealth,18,,,,,
+ExU1-03,0:53:23,Orym,Stealth,11,,,,,
+ExU1-03,0:53:30,Dorian,Stealth,Unknown,Unknown,,,,disregarded due to advantage (inspiration)
+ExU1-03,0:53:30,Dorian,Stealth,7,,,,,
+ExU1-03,0:53:33,Dariax,Stealth,12,,,,,
+ExU1-03,0:54:42,Opal,Survival,Unknown,Unknown,,,,disregarded due to advantage
+ExU1-03,0:54:42,Opal,Survival,12,,,,,
+ExU1-03,0:57:01,Opal,Stealth,8,,,,,
+ExU1-03,0:57:02,Dariax,Stealth,20,,,,,
+ExU1-03,0:57:03,Fearne,Stealth,11,,,,,
+ExU1-03,0:57:05,Orym,Stealth,8,,,,,
+ExU1-03,0:57:05,Dorian,Stealth,15,,,,,
+ExU1-03,0:59:41,Dariax,Deception,Nat1,1,,,,disregarded due to advantage
+ExU1-03,0:59:41,Dariax,Deception,20,,,,,
+ExU1-03,1:01:18,Orym,Perception,Unknown,Unknown,,,,
+ExU1-03,1:01:18,Orym,Perception,22,,,,,
+ExU1-03,1:06:41,Orym,Persuasion,17,,,,,
+ExU1-03,1:14:56,Dariax,History,14,,,,,
+ExU1-03,1:14:58,Fearne,History,5,,,,,
+ExU1-03,1:15:01,Dorian,History,7,,,,,
+ExU1-03,1:15:02,Opal,History,16,,,,,
+ExU1-03,1:15:04,Orym,History,23,,,,,
+ExU1-03,1:19:42,Fearne,Insight,18,,,,,
+ExU1-03,1:20:01,Dorian,Insight,19,,,,,
+ExU1-03,1:23:45,Orym,Insight,Unknown,Unknown,,,,disregarded due to advantage
+ExU1-03,1:23:45,Orym,Insight,13,,,,,
+ExU1-03,1:33:10,Dariax,Attack,8,,,,,Slap against illusory spider
+ExU1-03,1:40:24,Dariax,Insight,Unknown,Unknown,,,,
+ExU1-03,1:40:24,Dariax,Insight,14,,,,,
+ExU1-03,1:54:09,Dariax,History,Unknown,Unknown,,,,
+ExU1-03,1:54:09,Dorian,History,Unknown,Unknown,,,,
+ExU1-03,1:54:10,Opal,History,16,,,,,
+ExU1-03,1:54:12,Fearne,History,16,,,,,
+ExU1-03,1:58:46,Opal,Persuasion,Unknown,Unknown,,,,
+ExU1-03,1:58:46,Opal,Persuasion,11,,,,,
+ExU1-03,1:59:49,Dariax,Persuasion,22,,,,,
+ExU1-03,2:31:20,Dorian,Persuasion,19,,,,,
+ExU1-03,2:35:38,Dariax,Persuasion,14,,,,,
+ExU1-03,2:41:29,Opal,Persuasion,13,,,,,
+ExU1-03,2:53:24,Fearne,Performance,Unknown,Unknown,,,,disregarded due to advantage
+ExU1-03,2:53:24,Fearne,Performance,21,,,,,
+ExU1-03,2:56:44,Dariax,d20,3,,,,,
+ExU1-03,2:58:00,Dariax,Perception,Nat1,1,,,,
+ExU1-03,2:58:32,Dorian,Perception,10,,,,,
+ExU1-03,2:58:32,Opal,Perception,10,,,,,
+ExU1-03,2:58:34,Orym,Perception,Unknown,Unknown,,,,disregarded due to advantage
+ExU1-03,2:58:34,Orym,Perception,20,,,,,
+ExU1-03,2:58:36,Fearne,Perception,19,,,,,
+ExU1-03,2:59:58,Orym,Dexterity Save,22,,,,,
+ExU1-03,3:05:32,Dorian,Deception,18,13,,,,add 2 extra to mod

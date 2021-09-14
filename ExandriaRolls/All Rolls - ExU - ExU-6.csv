@@ -1,0 +1,138 @@
+Episode,Time,Character,Type of Roll,Total Value,Natural Value,Crit?,Damage Dealt,# Kills,Notes
+ExU1-06,0:07:08,Fy'ra,Survival,16,,,,,
+ExU1-06,0:07:15,Fy'ra,Other,4,,,,,days of travel
+ExU1-06,0:07:45,Dariax,Perception,6,,,,,
+ExU1-06,0:07:48,Opal,Perception,5,,,,,
+ExU1-06,0:07:49,Fearne,Perception,5,,,,,
+ExU1-06,0:07:51,Fy'ra,Perception,20,,,,,
+ExU1-06,0:07:52,Orym,Perception,7,,,,,
+ExU1-06,0:07:54,Dorian,Perception,20,,,,,
+ExU1-06,0:12:53,Opal,Charisma Save,6,,,,,
+ExU1-06,0:15:10,Dariax,History,18,,,,,
+ExU1-06,0:15:12,Opal,History,20,,,,,
+ExU1-06,0:15:15,Fy'ra,History,13,,,,,
+ExU1-06,0:15:16,Fearne,History,10,,,,,
+ExU1-06,0:15:17,Orym,History,19,,,,,
+ExU1-06,0:15:17,Dorian,History,21,,,,,
+ExU1-06,0:18:06,Fy'ra,Insight,Unknown,,,,,disregarded due to disadvantage
+ExU1-06,0:18:06,Fy'ra,Insight,19,,,,,
+ExU1-06,0:22:43,Opal,History,15,,,,,
+ExU1-06,0:22:46,Orym,History,19,,,,,
+ExU1-06,0:22:48,Fearne,History,13,,,,,
+ExU1-06,0:24:05,Orym,Perception,14,,,,,
+ExU1-06,0:24:07,Dariax,Perception,0,,,,,
+ExU1-06,0:24:34,Fearne,Perception,20,,,,,
+ExU1-06,0:24:36,Dorian,Perception,12,,,,,
+ExU1-06,0:27:24,Dariax,Acrobatics,14,,,,,
+ExU1-06,0:29:52,Opal,Athletics,Nat20,20,,,,
+ExU1-06,0:30:17,Fearne,Athletics/Acrobatics,17,,,,,
+ExU1-06,0:32:28,Orym,Athletics/Acrobatics,17,,,,,
+ExU1-06,0:34:42,Fy'ra,Perception,16,,,,,
+ExU1-06,0:35:33,Fy'ra,Persuasion,16,,,,,
+ExU1-06,0:43:01,Fy'ra,Perception,13,,,,,
+ExU1-06,0:51:01,Dariax,Dexterity,Nat1,1,,,,disregarded due to advantage (DM Inspiration)
+ExU1-06,0:51:01,Dariax,Dexterity,10,,,,,
+ExU1-06,0:53:17,Opal,Animal Handling,14,,,,,
+ExU1-06,0:54:28,Dorian,Animal Handling,Nat1,1,,,,disregarded due to advantage
+ExU1-06,0:54:28,Dorian,Animal Handling,20,19,,,,
+ExU1-06,0:57:26,Fearne,Animal Handling,19,,,,,
+ExU1-06,1:16:23,Dorian,Insight,19,,,,,
+ExU1-06,1:16:27,Opal,Persuasion,16,,,,,
+ExU1-06,1:23:53,Fearne,Acrobatics,6,,,,,
+ExU1-06,1:36:17,Fy'ra,Wisdom Save,Unknown,Unknown,,,,
+ExU1-06,1:36:40,Dariax,Charisma Save,9,,,,,
+ExU1-06,1:53:23,Dariax,Charisma Save,15,,,,,
+ExU1-06,2:31:15,Fy'ra,Wisdom Save,15,,,,,
+ExU1-06,2:46:15,Dariax,Perception,Unknown,,,,,disregarded due to disadvantage
+ExU1-06,2:46:15,Dariax,Perception,7,,,,,
+ExU1-06,2:46:18,Fy'ra,Perception,Unknown,,,,,disregarded due to disadvantage
+ExU1-06,2:46:18,Fy'ra,Perception,8,,,,,
+ExU1-06,2:46:20,Orym,Perception,11,,,,,
+ExU1-06,2:46:20,Fearne,Perception,Unknown,,,,,disregarded due to disadvantage
+ExU1-06,2:46:20,Fearne,Perception,5,,,,,
+ExU1-06,2:46:22,Dorian,Perception,Unknown,,,,,disregarded due to disadvantage
+ExU1-06,2:46:22,Dorian,Perception,14,,,,,
+ExU1-06,2:46:25,Opal,Perception,Unknown,,,,,disregarded due to disadvantage
+ExU1-06,2:46:25,Opal,Perception,2,,,,,
+ExU1-06,2:47:16,Opal,Constitution Save,14,,,,,
+ExU1-06,2:48:12,Opal,Medicine,6,,,,,
+ExU1-06,2:53:42,Fearne,Strength Save,12,,,,,
+ExU1-06,2:55:02,Fy'ra,Attack,Unknown,,,,,disregarded due to disadvantage
+ExU1-06,2:55:02,Fy'ra,Attack,19,,,,,Staff (expanded) against Assassin
+ExU1-06,2:55:35,Fy'ra,Damage,9,,,9 to Assassin,,
+ExU1-06,2:56:10,Dorian,Initiative,22,,,,,
+ExU1-06,2:56:20,Fy'ra,Initiative,16,,,,,
+ExU1-06,2:56:48,Orym,Initiative,Unknown,,,,,disregarded due to advantage
+ExU1-06,2:56:48,Orym,Initiative,8,,,,,
+ExU1-06,2:56:37,Fearne,Initiative,14,,,,,
+ExU1-06,2:57:37,Dariax,Initiative,Nat1,1,,,,
+ExU1-06,2:56:59,Opal,Initiative,Nat1,1,,,,
+ExU1-06,2:59:35,Dorian,Attack,Unknown,Unknown,,,,disregarded due to disadvantage
+ExU1-06,2:59:35,Dorian,Attack,21,17,,,,Handaxe against Assassin
+ExU1-06,2:59:35,Dorian,Other,4,,,,,Bless
+ExU1-06,2:59:54,Dorian,Damage,7,,,7 to Assassin,,
+ExU1-06,3:00:54,Dorian,d20,10,,,,,Chase Complication
+ExU1-06,3:04:12,Fy'ra,d20,11,,,,,Chase Complication
+ExU1-06,3:06:35,Fearne,Perception,Unknown,,,,,disregarded due to advantage
+ExU1-06,3:06:35,Fearne,Perception,17,,,,,as dire wolf
+ExU1-06,3:09:38,Orym,Perception,Unknown,,,,,disregarded due to advantage
+ExU1-06,3:09:38,Orym,Perception,22,,,,,
+ExU1-06,3:10:30,Orym,Attack,10,,,,,Sword against Assassin
+ExU1-06,3:10:48,Orym,Attack,Nat1,1,,,,disregarded due to Halfling Luck
+ExU1-06,3:10:48,Orym,Attack,20,,,,,
+ExU1-06,3:11:15,Orym,Damage,6,,,6 to Assassin,,
+ExU1-06,3:12:18,Opal,Arcana,17,,,,,
+ExU1-06,3:12:42,Opal,Constitution Save,17,,,,,
+ExU1-06,3:13:30,Opal,Spell Attack,15,,,,,disregarded due to disadvantage
+ExU1-06,3:13:30,Opal,Spell Attack,13,,,,,Word of Radiance
+ExU1-06,3:15:10,Opal,Damage,5,,,5 to Assassin,,
+ExU1-06,3:17:31,Dariax,d20,8,,,,,Chase Complication
+ExU1-06,3:18:04,Dariax,Athletics/Acrobatics,11,,,,,
+ExU1-06,3:20:31,Dorian,Perception,14,,,,,
+ExU1-06,3:22:26,Dorian,Damage,8,,,"8 to Meat Beast 1, 4 (8/2) to Meat Beast 2",,
+ExU1-06,3:23:37,Dorian,d20,19,,,,,Chase Complication
+ExU1-06,3:26:16,Fy'ra,Acrobatics,24,,,,,
+ExU1-06,3:26:40,Fy'ra,d20,18,,,,,Chase Complication
+ExU1-06,3:27:29,Fy'ra,Acrobatics,23,,,,,
+ExU1-06,3:29:59,Fearne,Perception,Nat1,1,,,,as a direwolf
+ExU1-06,3:54:33,Fearne,d20,Nat1,1,,,,"as a direwolf, Chase Complication"
+ExU1-06,3:33:38,Orym,Damage,1,,,1 to Assassin ,,Superiority Die
+ExU1-06,3:33:45,Orym,Attack,19,,,,,Sword against Meat Beast 1
+ExU1-06,3:33:54,Orym,Damage,12,,,12 to Meat Beast 1,,Meat Beast 1 has disadvantage on all attacks except against Orym
+ExU1-06,3:35:05,Orym,d20,9,,,,,Chase Complication
+ExU1-06,3:36:14,Opal,Arcana,Nat20,20,,,,
+ExU1-06,3:37:22,Opal,d20,10,,,,,Chase Complication
+ExU1-06,3:38:50,Dariax,Dexterity Save,16,,,,,
+ExU1-06,3:39:14,Dariax,Deception,21,,,,,
+ExU1-06,3:40:25,Dariax,d20,12,,,,,Chase Complication
+ExU1-06,3:42:04,Dorian,d20,16,,,,,Chase Complication
+ExU1-06,3:43:10,Opal,Dexterity Save,20,,,,,disregarded due to disadvantage
+ExU1-06,3:43:10,Opal,Dexterity Save,18,,,,,
+ExU1-06,3:45:26,Fy'ra,d20,14,,,,,Chase Complication
+ExU1-06,3:46:27,Fearne,Perception,19,,,,,as direwolf
+ExU1-06,3:47:40,Fearne,Attack,25,,,,,Direwolf Bite against Assassin
+ExU1-06,3:48:35,Fearne,Damage,10,,,10 to Assassin,1,Assassin dies
+ExU1-06,3:54:41,Fy'ra,Damage,19,,,19 Bludgeoning,,Lava Whip
+ExU1-06,3:56:56,Orym,Strength Save,5,,,,,Orym is grappled
+ExU1-06,3:58:14,Fy'ra,Strength Save,23,,,,,
+ExU1-06,3:58:35,Orym,Healing,12,,,,,Second Wind
+ExU1-06,3:56:51,Orym,Attack,23,,,,,Sword against Meat Beast 1
+ExU1-06,3:59:08,Orym,Damage,9,,,9 to Meat Beast 1,1,"Meat Beast 1 dies, HDYWTDT"
+ExU1-06,4:00:48,Dariax,Dexterity Save,Unknown,Unknown,,,,disregarded due to disadvantage
+ExU1-06,4:00:48,Dariax,Dexterity Save,15,,,,,
+ExU1-06,4:02:40,Opal,Intimidation,14,9,,,,
+ExU1-06,4:06:09,Opal,Investigation,22,19,,,,disregarded due to disadvantage
+ExU1-06,4:06:09,Opal,Investigation,17,,,,,
+ExU1-06,4:07:58,Dariax,Healing,14,,,,,Cure Wounds (2nd)
+ExU1-06,4:08:54,Dariax,Damage,8,,,8 to Meat Beast 2,,
+ExU1-06,4:10:40,Dorian,Damage,13,,,13 Psychic to Meat Beast 2,,
+ExU1-06,4:11:55,Dorian,Spell Attack,21,19,,,,no proficiency added
+ExU1-06,4:15:34,Fy'ra,Damage,13,,,13 fire to Meat Beast 2,,
+ExU1-06,4:16:48,Fy'ra,Attack,,17,,,,Staff (contracted) against Meat Beast 2
+ExU1-06,4:16:59,Fy'ra,Damage,6,,,6 to Meat Beast 2,,
+ExU1-06,4:21:42,Fearne,Attack,Unknown,,,,,disregarded due to advantage
+ExU1-06,4:21:42,Fearne,Attack,16,,,,,Direwolf Bite attack
+ExU1-06,4:22:00,Fearne,Damage,12,,,12 to Meat Beast 2,1,"Meat Beast 2 dies, HDYWTDT"
+ExU1-06,4:30:06,Opal,Spell Attack,Unknown,,,,,disregarded due to disadvantage
+ExU1-06,4:30:06,Opal,Spell Attack,,2,,,,
+ExU1-06,4:40:30,Fy'ra,Wisdom Save,18,16,,,,

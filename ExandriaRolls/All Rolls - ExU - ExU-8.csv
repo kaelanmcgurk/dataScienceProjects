@@ -1,0 +1,138 @@
+Episode,Time,Character,Type of Roll,Total Value,Natural Value,Crit?,Damage Dealt,# Kills,Notes
+ExU1-08,0:08:12,Orym,Perception,Nat20,20,,,,
+ExU1-08,0:10:24,Orym,Dexterity Save,19,,,,,
+ExU1-08,0:11:22,Opal,Sleight of Hand,6,,,,,
+ExU1-08,0:15:06,Dariax,Dexterity Save,16,,,,,
+ExU1-08,0:15:06,Dorian,Dexterity Save,15,,,,,
+ExU1-08,0:15:06,Fearne,Dexterity Save,20,,,,,
+ExU1-08,0:16:56,Opal,Athletics,Unknown,,,,,disregarded due to disadvantage
+ExU1-08,0:16:56,Opal,Athletics,13,14,,,,
+ExU1-08,0:18:16,Opal,Charisma Save,13,,,,,
+ExU1-08,0:19:16,Orym,Attack,14,,,,,Sword against Myr'atta
+ExU1-08,0:20:01,Dariax,Initiative,Nat20,20,,,,
+ExU1-08,0:20:01,Dorian,Initiative,21,,,,,
+ExU1-08,0:20:01,Opal,Initiative,19,,,,,
+ExU1-08,0:20:01,Orym,Initiative,Unknown,,,,,disregarded due to advantage
+ExU1-08,0:20:01,Orym,Initiative,18,,,,,
+ExU1-08,0:20:01,Fearne,Initiative,12,,,,,
+ExU1-08,0:22:07,Dariax,Perception,Unknown,,,,,disregarded due to advantage
+ExU1-08,0:22:07,Dariax,Perception,14,,,,,
+ExU1-08,0:22:50,Dariax,Arcana,7,,,,,
+ExU1-08,0:24:18,Dariax,Constitution Save,Unknown,,,,,
+ExU1-08,0:24:58,Dorian,Damage,10,,,5 (10/2) Thunder to Rock Construct,,Thunderwave
+ExU1-08,0:25:42,Dorian,Arcana,15,,,,,disregarded due to advantage
+ExU1-08,0:25:42,Dorian,Arcana,20,18,,,,
+ExU1-08,0:27:18,Dorian,Strength Save,18,,,,,
+ExU1-08,0:29:29,Opal,Arcana,14,,,,,Opal has Greater Invisibilty
+ExU1-08,0:32:27,Fearne,Wisdom Save,9,,,,,Fearne is disoriented
+ExU1-08,0:32:27,Orym,Wisdom Save,21,,,,,
+ExU1-08,0:32:27,Dorian,Wisdom Save,5,,,,,Dorian is disoriented
+ExU1-08,0:32:27,Dariax,Wisdom Save,14,,,,,
+ExU1-08,0:32:27,Opal,Wisdom Save,13,,,,,
+ExU1-08,0:35:27,Orym,Attack,25,,,,,Sword against Myr'atta
+ExU1-08,0:35:32,Orym,Damage,5,,,5 to Myr'atta,,
+ExU1-08,0:35:45,Orym,Other,3,,,,,Bless
+ExU1-08,0:36:21,Orym,Wisdom Save,4,,,,,
+ExU1-08,0:37:32,Orym,Other,1,,,,,Bless
+ExU1-08,0:38:28,Fearne,Arcana,20,,,,,Mister is bigger than normal
+ExU1-08,0:39:23,Mister,Attack,13,,,,,Flame Seed against Rock Construct
+ExU1-08,0:39:42,Mister,Damage,5,,,5 to Rock Construct,,
+ExU1-08,0:41:35,Fearne,Attack,15,,,,,Moon Sickle against Rock Construct
+ExU1-08,0:44:06,Fearne,Dexterity/Strength Save,14,,,,,
+ExU1-08,0:44:06,Opal,Dexterity/Strength Save,14,,,,,
+ExU1-08,0:44:06,Orym,Dexterity/Strength Save,Unknown,,,,,
+ExU1-08,0:44:06,Dorian,Dexterity/Strength Save,Unknown,,,,,
+ExU1-08,0:45:19,Opal,Charisma Save,13,,,,,
+ExU1-08,0:46:56,Dariax,Attack,14,,,,,Spear against Myr'atta
+ExU1-08,0:48:08,Dorian,Scimitar,17,,,,1,Scimitar against Rock Construct (HDYWTDT)
+ExU1-08,0:52:00,Opal,Athletics,Unknown,,,,,disregarded due to advantage
+ExU1-08,0:52:00,Opal,Athletics,11,,,,,
+ExU1-08,0:52:51,Opal,Charisma Save,23,,,,,
+ExU1-08,0:58:14,Orym,Wisdom Save,Nat20,20,,,,Orym has all his superiority dice and one extra battle maneuver
+ExU1-08,1:00:08,Dariax,Constitution Save,15,,,,,
+ExU1-08,1:00:20,Orym,Attack,26,,,,,Sword against Ula with Bless
+ExU1-08,1:00:29,Orym,Damage,14,,,,,
+ExU1-08,1:03:10,Fearne,Attack,Nat20,20,,,,Dire Wolf Bite against Caster
+ExU1-08,1:03:20,Fearne,Damage,11,,,11 to Caster,,
+ExU1-08,1:04:20,Fearne,Athletics,,15,,,,Dire Wolf Athletics
+ExU1-08,1:06:17,Mister,Damage,7,,,7 to Caster,,Flame Seed against Caster
+ExU1-08,1:09:20,Fearne,Strength Save,18,Unknown,,,,with Bless
+ExU1-08,1:09:20,Orym,Dexterity Save,Nat20,20,,,,with Bless
+ExU1-08,1:09:20,Dorian,Dexterity Save,19,,,,,with Bless
+ExU1-08,1:11:35,Dariax,Healing,8,,,Dariax heals 8,,Cure Wounds
+ExU1-08,1:12:24,Opal,Athletics,17,,,,,
+ExU1-08,1:13:14,Dariax,Wisdom Save,19,18,,,,Dariax is Hasted
+ExU1-08,1:16:31,Dorian,Wisdom Save,7,,,,,
+ExU1-08,1:16:31,Dorian,Other,3,,,,,Bless
+ExU1-08,1:18:15,Dorian,Intelligence Save,10,,,"2 Psychic to Dorian, 1 Psychic to Opal",,
+ExU1-08,1:18:15,Dorian,Other,4,,,,,Bless
+ExU1-08,1:20:23,Dorian,Healing,4,,,Dorian heals 4 points,,Potion of Regular Healing
+ExU1-08,1:23:14,Opal,Spell Attack,17,,,,,Eldritch Blast against Myr'atta
+ExU1-08,1:26:22,Orym,Attack,17,,,,,Sword against Ula
+ExU1-08,1:26:22,Orym,Other,1,,,,,Bless
+ExU1-08,1:27:05,Orym,Damage,8,,,8 to Ula,,
+ExU1-08,1:27:32,Orym,Attack,Unknown,,,,,disregarded due to advantage
+ExU1-08,1:27:32,Orym,Attack,Nat20,20,,,,
+ExU1-08,1:27:44,Orym,Damage,28,,,28 (12x2+4) to Ula,1,Ula dies (HDYWTDT)
+ExU1-08,1:29:26,Fearne,Attack,20,,,,,Dire Wolf Bite against Caster
+ExU1-08,1:29:39,Fearne,Damage,8,,,8 to Caster,,
+ExU1-08,1:30:16,Fearne,Wisdom Save,12,,,,,with Bless
+ExU1-08,1:32:38,Mister,Attack,19,,,,,Flame Seed against Caster
+ExU1-08,1:32:50,Mister,Damage,8,,,8 to Caster,,
+ExU1-08,1:34:18,Dariax,Constitution Save,17,,,7 (14/2) Cold to Dariax,,with Bardic Inspiration
+ExU1-08,1:34:18,Fearne,Constitution Save,17,,,7 (14/2) Cold to Dire Wolf!Fearne,,with Bless
+ExU1-08,1:34:18,Dorian,Constitution Save,2,,,,,Dorian fails 2 death saves
+ExU1-08,1:34:18,Mister,Constitution Save,,5,,14 Cold to Mister,,
+ExU1-08,1:34:18,Dariax,Constitution Save,19,,,,,
+ExU1-08,1:38:00,Opal,Strength Save,4,,,1 to Opal,,
+ExU1-08,1:55:33,Dariax,Healing,5,,,Dorian heals 5 points,,Dorian is conscious
+ExU1-08,1:57:07,Dorian,Wisdom Save,Unknown,,,,,disregarded due to advantage
+ExU1-08,1:57:07,Dorian,Wisdom Save,12,,,,,
+ExU1-08,2:01:11,Dariax,Attack,Nat20,20,,,,Spear against Myr'atta
+ExU1-08,2:01:30,Dariax,Damage,28,,,28 (11x2+6) to Myr'atta,,
+ExU1-08,2:03:32,Fearne,Constitution Save,19,,,9 (18/2) to Dire Wolf!Fearne,,with Bless
+ExU1-08,2:03:35,Opal,Constitution Save,15,,,9 (18/2) to Opal,,
+ExU1-08,2:03:53,Mister,Constitution Save,9,,,18 to Mister,,Mister is unconscious
+ExU1-08,2:04:59,Opal,Arcana,2,,,,,
+ExU1-08,2:07:18,Dorian,Healing,3,,,,,"Cure Wounds, Counterspelled"
+ExU1-08,2:08:32,Dorian,Healing,6,,,Dorian heals 6,,Potion of Regular Healing
+ExU1-08,2:12:03,Opal,Charisma Save,Unknown,,,,,disregarded due to advantage
+ExU1-08,2:12:03,Opal,Charisma Save,20,,,,,
+ExU1-08,2:15:47,Opal,Sleight of Hand,5,,,,,
+ExU1-08,2:18:40,Dariax,Strength Save,Unknown,,,,,disregarded due to advantage
+ExU1-08,2:18:40,Dariax,Strength Save,Nat20,20,,,,
+ExU1-08,2:20:26,Orym,Attack,26,,,,,Heavy Crossbow (+2) against Myr'atta with Bless
+ExU1-08,2:20:38,Orym,Damage,12,,,12 to Myr'atta,,
+ExU1-08,2:21:03,Orym,Healing,5,,,Orym heals 5,,Second Wind
+ExU1-08,2:24:31,Opal,Perception,19,,,,,as dire wolf
+ExU1-08,2:28:34,Fearne,Intimidation,Nat1,,,,,
+ExU1-08,2:29:12,Dariax,Death Save,8,,,,,Dariax fails 1 death save
+ExU1-08,2:29:50,Dorian,Dexterity Save,Nat20,20,,,,
+ExU1-08,2:30:39,Dorian,Perception,3,,,,,
+ExU1-08,2:32:42,Dorian,Attack,14,,,,,disregarded due to advantage
+ExU1-08,2:32:42,Dorian,Attack,17,,,,,Unarmed Attack
+ExU1-08,2:34:48,Dorian,Healing,18,,,Dariax heals 18,,"Cure Wounds (2nd), Dariax is conscious"
+ExU1-08,2:37:08,Dorian,Attack,20,16,,,,Unarmed Strike against Myr'atta
+ExU1-08,2:37:27,Dorian,Athletics,17,11,,,,
+ExU1-08,2:39:44,Opal,Insight,Nat20,20,,,,
+ExU1-08,2:42:25,Opal,Wisdom Save,16,,,,,
+ExU1-08,2:44:28,Opal,Persuasion,8,,,,,
+ExU1-08,2:50:12,Opal,Attack,22,17,,,,disregarded due to advantage
+ExU1-08,2:50:12,Opal,Attack,22,17,,,,Dagger against Myr'atta
+ExU1-08,2:50:52,Opal,Damage,5,,,5 to Myr'atta,1,Myr'atta dies (HDYWTDT)
+ExU1-08,2:54:54,Orym,History,23,,,,,
+ExU1-08,3:00:07,Dorian,Spell Attack,22,18,,,,
+ExU1-08,3:02:48,Dorian,History,Unknown,,,,,disregarded due to advantage
+ExU1-08,3:02:48,Dorian,History,10,,,,,
+ExU1-08,3:03:59,Orym,History,18,,,,,
+ExU1-08,3:05:31,Fearne,Medicine,6,,,,,disregarded due to advantage
+ExU1-08,3:05:31,Fearne,Medicine,19,,,,,
+ExU1-08,3:07:48,Dariax,Dexterity,Unknown,,,,,disregarded due to advantage
+ExU1-08,3:07:48,Dariax,Dexterity,18,,,,,
+ExU1-08,3:08:50,Opal,Persuasion,13,,,,,
+ExU1-08,3:10:44,Opal,Religion,Unknown,,,,,disregarded due to advantage
+ExU1-08,3:10:44,Opal,Religion,16,,,,,
+ExU1-08,3:15:15,Opal,Charisma Save,10,,,,,
+ExU1-08,3:16:08,Opal,History,9,,,,,
+ExU1-08,3:17:38,Fearne,Healing,8,,,Mister heals 8,,"Cure Wounds, Mister is conscious"
+ExU1-08,3:21:07,Opal,Charisma Save,13,,,,,

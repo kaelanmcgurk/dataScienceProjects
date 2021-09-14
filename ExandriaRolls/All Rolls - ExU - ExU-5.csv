@@ -1,0 +1,136 @@
+Episode,Time,Character,Type of Roll,Total Value,Natural Value,Crit?,Damage Dealt,# Kills,Notes
+ExU1-05,0:08:44,Opal,d20,15,,,,,
+ExU1-05,0:14:59,Opal,Charisma Save,13,,,,,
+ExU1-05,0:16:12,Dariax,Wisdom Save,18,,,,,
+ExU1-05,0:17:21,Fearne,Arcana,21,,,,,
+ExU1-05,0:18:58,Fy'ra,Insight,21,,,,,
+ExU1-05,0:20:54,Opal,Arcana,3,,,,,
+ExU1-05,0:24:08,Fy'ra,Wisdom Save,5,,,,,
+ExU1-05,0:27:40,Fy'ra,Survival,21,,,,,
+ExU1-05,0:31:22,Dariax,Wisdom Save,2,,,,,
+ExU1-05,0:34:29,Dariax,Acrobatics,17,,,,,
+ExU1-05,0:38:42,Dariax,Perception,1,,,,,
+ExU1-05,0:44:30,Dorian,Arcana,18,,,,,
+ExU1-05,0:46:38,Opal,Perception,18,,,,,
+ExU1-05,0:46:51,Fy'ra,Perception,16,,,,,
+ExU1-05,0:48:41,Fy'ra,Wisdom Save,Unknown,Unknown,,,,disregarded due to advantage
+ExU1-05,0:48:41,Fy'ra,Wisdom Save,19,,,,,
+ExU1-05,0:52:09,Dorian,Wisdom Save,11,,,,,
+ExU1-05,0:53:53,Orym,Insight,Nat1,1,,,,disregarded due to Halfling Luck
+ExU1-05,0:53:53,Orym,Insight,,2,,,,
+ExU1-05,0:59:45,Dorian,Wisdom Save,5,,,,,
+ExU1-05,1:03:25,Fy'ra,Wisdom Save,Unknown,,,,,
+ExU1-05,1:04:26,Dariax,Arcana,Unknown,,,,,disregarded due to disadvantage
+ExU1-05,1:04:26,Dariax,Arcana,5,,,,,
+ExU1-05,1:04:44,Dariax,Healing,4,,,Dorian heals 4,,
+ExU1-05,1:06:00,Dorian,Wisdom Save,Unknown,,,,,disregarded due to disadvantage
+ExU1-05,1:06:00,Dorian,Wisdom Save,8,,,,,
+ExU1-05,1:07:28,Fearne,Wisdom Save,15,,,,,
+ExU1-05,1:08:13,Opal,Attack,11,,,,,against Spider
+ExU1-05,1:08:58,Opal,Perception,15,,,,,
+ExU1-05,1:09:58,Orym,Insight,Nat20,20,,,,
+ExU1-05,1:10:07,Dariax,Deception,12,,,,,
+ExU1-05,1:11:08,Orym,Nature,,19,,,,
+ExU1-05,1:16:55,Dorian,Arcana,11,,,,,
+ExU1-05,1:17:55,Dorian,Intelligence,Nat1,1,,,,
+ExU1-05,1:19:22,Dorian,Athletics,17,,,,,
+ExU1-05,1:20:17,Dorian,Wisdom Save,4,,,,,
+ExU1-05,1:23:52,Dorian,Persuasion,Nat1,1,,,,
+ExU1-05,1:29:51,Dariax,Perception,14,,,,,
+ExU1-05,1:30:05,Dorian,Perception,9,,,,,
+ExU1-05,1:30:05,Fy'ra,Perception,23,,,,,
+ExU1-05,1:30:07,Fearne,Perception,19,,,,,
+ExU1-05,1:30:07,Orym,Perception,14,,,,,
+ExU1-05,1:30:09,Opal,Perception,15,,,,,
+ExU1-05,1:31:52,Dariax,Arcana,10,,,,,
+ExU1-05,1:37:58,Dariax,Survival,13,,,,,
+ExU1-05,1:38:00,Fy'ra,Survival,7,,,,,
+ExU1-05,1:38:01,Fearne,Survival,10,,,,,
+ExU1-05,1:38:01,Orym,Survival,18,,,,,
+ExU1-05,1:38:02,Dorian,Survival,11,,,,,
+ExU1-05,1:38:02,Opal,Survival,6,,,,,
+ExU1-05,1:56:29,Orym,Perception,17,,,,,
+ExU1-05,1:57:53,Dariax,Intelligence,7,,,,,
+ExU1-05,1:58:48,Orym,Nature,Nat20,,,,,
+ExU1-05,2:02:06,Dorian,Nature,11,,,,,
+ExU1-05,2:02:12,Fy'ra,Religion,13,,,,,
+ExU1-05,2:02:45,Dorian,Dexterity Save,14,,,,,
+ExU1-05,2:09:56,Dariax,Wisdom Save,9,,,,,
+ExU1-05,2:09:56,Dariax,Wisdom Save,11,,,,,Dariax is charmed
+ExU1-05,2:11:12,Orym,Acrobatics,22,,,,,
+ExU1-05,2:11:44,Orym,Attack,23,,,,,Unarmed Strike against Dariax
+ExU1-05,2:12:16,Dariax,Wisdom Save,Nat20,20,,,,Dariax is no longer charmed
+ExU1-05,2:13:08,Dariax,Stealth,Unknown,,,,,disregarded due to advantage
+ExU1-05,2:13:08,Dariax,Stealth,9,,,,,
+ExU1-05,2:13:33,Fy'ra,Intelligence,11,,,,,
+ExU1-05,2:13:34,Orym,Intelligence,7,,,,,
+ExU1-05,2:13:36,Dorian,Intelligence,14,,,,,
+ExU1-05,2:13:38,Opal,Intelligence,21,,,,,
+ExU1-05,2:14:19,Opal,Arcana,20,,,,,
+ExU1-05,2:15:04,Dariax,Wisdom Save,11,,,,,
+ExU1-05,2:23:39,Dorian,Strength Save,20,,,,,
+ExU1-05,2:26:46,Opal,Religion,10,,,,,
+ExU1-05,2:29:35,Orym,Wisdom Save,17,,,,,
+ExU1-05,2:32:23,Dariax,Intelligence,Unknown,Unknown,,,,
+ExU1-05,2:32:23,Dariax,Intelligence,14,,,,,
+ExU1-05,2:33:56,Dariax,Perception,4,,,,,
+ExU1-05,2:36:17,Fy'ra,Initiative,20,,,,,
+ExU1-05,2:36:30,Opal,Initiative,19,,,,,
+ExU1-05,2:36:32,Dorian,Initiative,17,,,,,
+ExU1-05,2:36:33,Orym,Initiative,Unknown,Unknown,,,,disregarded due to advantage
+ExU1-05,2:36:33,Orym,Initiative,15,,,,,
+ExU1-05,2:37:05,Fearne,Initiative,4,,,,,
+ExU1-05,2:37:08,Dariax,Initiative,9,,,,,
+ExU1-05,2:38:56,Fy'ra,Wisdom Save,17,,,,,
+ExU1-05,2:39:04,Dariax,Wisdom Save,1,,,,,
+ExU1-05,2:39:46,Fy'ra,Athletics,19,,,,,
+ExU1-05,2:40:36,Fy'ra,Attack,17,,,,,Unarmed Strike against Crocodile
+ExU1-05,2:40:48,Fy'ra,Damage,5,,,5 to Crocodile,,
+ExU1-05,2:41:40,Opal,Deception,13,,,,,
+ExU1-05,2:43:31,Opal,Spell Attack,18,,,,,Eldritch Blast against Crocodile
+ExU1-05,2:43:42,Opal,Damage,13,,,13 to Crocodile,,
+ExU1-05,2:45:13,Fy'ra,Constitution Save,21,,,,,
+ExU1-05,2:46:10,Dorian,Wisdom Save,Nat20,20,,,,
+ExU1-05,2:46:27,Dorian,Attack,8,,,,,Moontouched Scimitar against Crocodile
+ExU1-05,2:47:03,Dorian,Attack,18,,,,,Axe against Crocodile
+ExU1-05,2:47:34,Dorian,Damage,3,,,3 to Crocodile,,
+ExU1-05,2:49:32,Orym,Other,2,,,,,Superiority Die
+ExU1-05,2:49:32,Orym,Damage,7,,,7 to Crocodile,,
+ExU1-05,2:49:33,Orym,Attack,15,7,,,,Sword against Crocodile
+ExU1-05,2:49:16,Orym,Other,Unknown,Unknown,,,,Superiority Die
+ExU1-05,2:49:50,Orym,Attack,13,,,,,Sword against Crocodile
+ExU1-05,2:51:28,Dariax,Damage,19,,,19 Fire to Crocodile,,
+ExU1-05,2:53:10,Fearne,Nature,18,,,,,
+ExU1-05,2:55:59,Fy'ra,Attack,19,,,,,Staff (expanded) against Crocodile
+ExU1-05,2:56:27,Fy'ra,Damage,11,,,11 to Crocodile,,
+ExU1-05,2:56:53,Fy'ra,Attack,Unknown,Unknown,,,,disregarded due to advantage
+ExU1-05,2:56:53,Fy'ra,Attack,25,19,,,,Staff (contracted) against Crocodile
+ExU1-05,2:56:57,Fy'ra,Attack,11,,,,,disregarded due to advantage
+ExU1-05,2:56:57,Fy'ra,Attack,18,,,,,Staff (contracted) against Crocodile
+ExU1-05,2:57:09,Fy'ra,Damage,4,,,4 to Crocodile,,
+ExU1-05,2:57:12,Fy'ra,Damage,8,,,8 to Crocodile,,
+ExU1-05,2:57:47,Fy'ra,Arcana,Nat1,1,,,,
+ExU1-05,3:00:38,Opal,Athletics,18,17,,,,
+ExU1-05,3:02:52,Fy'ra,Perception,16,,,,,
+ExU1-05,3:02:53,Opal,Perception,14,,,,,
+ExU1-05,3:02:53,Fearne,Perception,19,,,,,
+ExU1-05,3:02:55,Orym,Perception,Nat20,20,,,,
+ExU1-05,3:02:57,Dariax,Perception,4,,,,,
+ExU1-05,3:05:10,Dorian,Strength,Nat20,20,,,,
+ExU1-05,3:06:17,Dariax,Healing,6,,,Fy'ra heals 6,,
+ExU1-05,3:09:13,Dorian,Intelligence,8,,,,,
+ExU1-05,3:10:51,Dariax,Intelligence Save,Unknown,Unknown,,,,"disregarded due to advantage, Favored by the Gods"
+ExU1-05,3:10:51,Dariax,Intelligence Save,14,,,,,
+ExU1-05,3:12:15,Dorian,Intelligence Save,17,,,,,
+ExU1-05,3:14:00,Fy'ra,Wisdom,,3,,,,
+ExU1-05,3:17:00,Dariax,Survival,19,18,,,,
+ExU1-05,3:24:31,Fy'ra,Insight,18,,,,,
+ExU1-05,3:29:45,Dorian,Charisma Save,16,12,,,,
+ExU1-05,3:31:35,Orym,Perception,23,,,,,
+ExU1-05,3:33:24,Dariax,Perception,13,,,,,
+ExU1-05,3:36:07,Opal,Acrcana,Nat20,20,,,,
+ExU1-05,3:39:51,Opal,Strength Save,9,,,,,
+ExU1-05,3:41:57,Fearne,Performance,11,,,,,"disregarded due to advantage, DM Inspiration"
+ExU1-05,3:41:57,Fearne,Performance,21,,,,,
+ExU1-05,3:44:59,Fearne,Wisdom Save,Nat1,1,,,,
+ExU1-05,3:50:55,Fearne,Wisdom Save,18,,,,,

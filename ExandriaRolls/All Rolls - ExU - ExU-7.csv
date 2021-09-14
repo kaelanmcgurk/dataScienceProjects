@@ -1,0 +1,153 @@
+Episode,Time,Character,Type of Roll,Total Value,Natural Value,Crit?,Damage Dealt,# Kills,Notes
+ExU1-07,0:11:09,Opal,Charisma Save,16,,,,,
+ExU1-07,0:13:08,Dariax,Spell Attack,18,,,,,
+ExU1-07,0:14:31,Dariax,Insight,8,,,,,
+ExU1-07,0:16:14,Dariax,Investigation,11,,,,,
+ExU1-07,0:21:37,Dariax,Perception,14,,,,,
+ExU1-07,0:22:56,Fearne,Wisdom Save,18,,,,,
+ExU1-07,0:29:04,Orym,Perception,Nat1,1,,,,Disregarded due to Halfling Luck
+ExU1-07,0:29:04,Orym,Perception,Unknown,Unknown,,,,Disregarded due to advantage
+ExU1-07,0:29:04,Orym,Perception,20,,,,,With advantage
+ExU1-07,0:36:03,Dorian,Investigation,19,,,,,
+ExU1-07,0:36:21,Dorian,Other,29,,,,,Percentile
+ExU1-07,0:37:17,Dorian,Arcana,14,,,,,
+ExU1-07,0:39:32,Dorian,Wisdom Save,15,,,,,
+ExU1-07,0:41:28,Dorian,Insight,10,,,,,
+ExU1-07,0:45:37,Dorian,Performance,Nat1,1,,,,Disregarded due to advantage
+ExU1-07,0:45:37,Dorian,Performance,11,5,,,,Disregarded due to GM Inspiration
+ExU1-07,0:45:27,Dorian,Performance,18,,,,,With GM Inspiration
+ExU1-07,0:53:18,Dorian,Deception,7,,,,,
+ExU1-07,0:54:37,Dorian,Deception,Nat20,20,,,,
+ExU1-07,0:57:53,Dorian,Perception,19,,,,,
+ExU1-07,1:12:42,Dariax,Wisdom Save,4,,,,,
+ExU1-07,1:16:02,Dariax,Insight,Nat1,1,,,,
+ExU1-07,1:16:50,Orym,History,19,,,,,
+ExU1-07,1:17:38,Dorian,Animal Handling,11,,,,,
+ExU1-07,1:23:35,Dariax,Charisma Save,18,,,,,
+ExU1-07,1:25:44,Orym,Survival,Unknown,Unknown,,,,Disregarded due advantage
+ExU1-07,1:25:44,Orym,Survival,19,,,,,With advantage
+ExU1-07,1:29:33,Orym,Perception,Unknown,Unknown,,,,Disregarded due advantage
+ExU1-07,1:29:33,Orym,Perception,14,,,,,With advantage
+ExU1-07,1:30:40,Fearne,Arcana,10,,,,,
+ExU1-07,1:33:01,Fearne,Athletics,11,,,,,
+ExU1-07,1:34:44,Dorian,History,11,,,,,Universe
+ExU1-07,1:34:44,Dariax,History,11,,,,,Shield
+ExU1-07,1:36:40,Fearne,History,Unknown,Unknown,,,,Disregarded due to disadvantage
+ExU1-07,1:36:40,Fearne,History,Nat1,1,,,,With disadvantage
+ExU1-07,1:44:36,Dariax,Strength Save,7,,,,,
+ExU1-07,1:44:36,Opal,Strength Save,11,,,,,
+ExU1-07,1:46:00,Opal,Religion,6,,,,,
+ExU1-07,1:47:20,Dariax,Religion,Unknown,Unknown,,,,Disregarded due to advantage
+ExU1-07,1:47:20,Dariax,Religion,8,,,,,With advantage (the universe above)
+ExU1-07,1:49:34,Orym,Investigation,16,,,,,
+ExU1-07,1:52:52,Fearne,Acrobatics,12,,,,,
+ExU1-07,1:53:37,Opal,Arcana,Unknown,Unknown,,,,Disregarded due to advantage
+ExU1-07,1:53:37,Opal,Arcana,15,,,,,With advantage (a shield to protect)
+ExU1-07,1:55:37,Fearne,Religion,5,3,,,,Remember
+ExU1-07,1:56:47,Dorian,Religion,13,,,,,Decide what comes next
+ExU1-07,1:57:53,Fearne,Religion,21,19,,,,Remember what came before
+ExU1-07,1:59:29,Dariax,Religion,Nat1,1,,,,Disregarded due to advantage
+ExU1-07,1:59:29,Dariax,Religion,1,2,,"2 to Dariax, Hit point max reduced by 2",,With advantage
+ExU1-07,2:02:45,Dariax,Religion,14,15,,,,Disregarded due to disadvantage
+ExU1-07,2:02:45,Dariax,Religion,12,13,,,,With disadvantage (the universe within)
+ExU1-07,2:03:42,Dariax,Strength Save,19,,,,,
+ExU1-07,2:05:05,Fearne,Religion,17,,,,,Provide for all
+ExU1-07,2:08:03,Orym,Acrobatics,13,,,,,
+ExU1-07,2:09:09,Fearne,Spell Attack,23,18,,,,
+ExU1-07,2:27:28,Orym,Strength Save,Nat20,20,,,,
+ExU1-07,2:29:10,Orym,Initiative,Unknown,Unknown,,,,Disregarded due to advantage
+ExU1-07,2:29:10,Orym,Initiative,22,,,,,With advantage
+ExU1-07,2:29:20,Dariax,Initiative,18,,,,,
+ExU1-07,2:29:38,Dorian,Initiative,12,,,,,
+ExU1-07,2:29:48,Opal,Initiative,9,,,,,
+ExU1-07,2:29:54,Fearne,Initiative,7,,,,,
+ExU1-07,2:31:39,Orym,Acrobatics,16,,,,,
+ExU1-07,2:33:05,Orym,Wisdom Save,10,,,"2 to Orym, Hit point max reduced by 2",,
+ExU1-07,2:34:54,Orym,Other,3,,,,,"Superiority Die, Fearne's AC increases by 3"
+ExU1-07,2:36:25,Dariax,Other,6,,,,,d6
+ExU1-07,2:38:31,Dariax,Strength Save,16,,,,,
+ExU1-07,2:39:21,Dariax,Constitution Save,16,,,,,Concentration
+ExU1-07,2:41:11,Dorian,Attack,7,,,,,
+ExU1-07,2:41:35,Dorian,Other,2,,,,,Bless
+ExU1-07,2:42:23,Dorian,Wisdom Save,14,,,,,
+ExU1-07,2:42:52,Dorian,Other,3,,,,,d6
+ExU1-07,2:45:04,Orym,Strength Save,18,,,,,
+ExU1-07,2:47:56,Opal,Wisdom Save,5,,,,,
+ExU1-07,2:49:02,Opal,Other,1,,,,,d6
+ExU1-07,2:50:14,Opal,Other,11,,,,,3d6
+ExU1-07,2:51:43,Fearne,Spell Attack,14,,,,,Flame Blade
+ExU1-07,2:51:58,Fearne,Other,2,,,,,Bless
+ExU1-07,2:52:26,Fearne,Damage,17,,,17 to Stone Golem,,
+ExU1-07,2:54:21,Fearne,Wisdom Save,15,,,,,
+ExU1-07,2:54:26,Fearne,Other,4,,,,,Bless
+ExU1-07,2:54:50,Fearne,Other,3,,,,,d6
+ExU1-07,2:56:42,Orym,Attack,25,19,,,,Sword Pushing Attack
+ExU1-07,2:54:46,Orym,Other,1,,,,,Bless
+ExU1-07,2:56:59,Orym,Damage,12,,,24 (12x2) to Stone Golem,,
+ExU1-07,2:57:43,Orym,Attack,22,,,,,Sword Pushing Attack
+ExU1-07,2:57:51,Orym,Damage,10,,,10 to Stone Golem,,
+ExU1-07,2:59:05,Orym,Wisdom Save,Nat1,1,,,,Disregarded due to Halfling Luck
+ExU1-07,2:59:05,Orym,Wisdom Save,7,,,"2 to Orym, Hit point max reduced by 2",,With Halfling Luck
+ExU1-07,2:59:12,Orym,Other,1,,,,,Bless
+ExU1-07,3:00:14,Opal,Dexterity Save,4,2,,,,
+ExU1-07,3:00:18,Opal,Other,4,,,,,Bles
+ExU1-07,3:01:47,Dariax,Attack,24,,,,,Spear
+ExU1-07,3:02:08,Dariax,Attack,,3,,,,Spear with advantage
+ExU1-07,3:02:08,Dariax,Attack,Nat1,1,,,,Disregarded due to advantage
+ExU1-07,3:02:26,Dariax,Damage,7,,,14 (7x2) to Stone Golem,,
+ExU1-07,3:03:51,Opal,Strength Save,11,,,,,
+ExU1-07,3:04:01,Opal,Other,2,,,,,Bless
+ExU1-07,3:07:12,Dorian,Attack,14,,,,,Scimitar
+ExU1-07,3:07:26,Dorian,Other,1,,,,,Bless
+ExU1-07,3:08:04,Dorian,Attack,24,18,,,,Scimitar
+ExU1-07,3:08:20,Dorian,Arcana,10,,,,,
+ExU1-07,3:08:44,Dorian,Damage,6,,,6 to Stone Golem,,
+ExU1-07,3:09:04,Dorian,Attack,14,,,,,Handaxe
+ExU1-07,3:09:11,Dorian,Other,1,,,,,Bless
+ExU1-07,3:11:31,Opal,Spell Attack,Unknown,Unknown,,,,Disregarded due to disadvantage
+ExU1-07,3:11:31,Opal,Spell Attack,22,17,,,,Eldritch Blast with disadvantage
+ExU1-07,3:11:45,Opal,Damage,4,,,4 to Stone Golem,,
+ExU1-07,3:13:10,Dariax,Dexterity Save,4,,,,,
+ExU1-07,3:13:47,Dariax,Other,5,,,,,Favored by the Gods
+ExU1-07,3:13:58,Dariax,Other,1,,,,,Bardic Inspiration
+ExU1-07,3:15:07,Dariax,Dexterity Save,,9,,3 to Dariax,,"Plus FbtG and BI (called at 12, but forgot previous rolls)"
+ExU1-07,3:16:30,Opal,Strength Save,Unknown,Unknown,,,,Disregarded due to GM Inspiration
+ExU1-07,3:16:30,Opal,Strength Save,9,,,3 to Opal,,With GM Inspiration
+ExU1-07,3:17:54,Fearne,Spell Attack,14,,,,,Flame Blade
+ExU1-07,3:17:54,Fearne,Other,2,,,,,Bless
+ExU1-07,3:18:04,Fearne,Damage,7,,,14 (7x2) to Stone Golem,,
+ExU1-07,3:19:17,Fearne,Perception,21,,,,,
+ExU1-07,3:21:54,Orym,Attack,22,16,,,,Sword Goading Attack
+ExU1-07,3:22:16,Orym,Damage,10,,,10 to Stone Golem,,
+ExU1-07,3:23:06,Opal,Dexterity Save,9,7,,,,
+ExU1-07,3:23:06,Opal,Other,3,,,,,Bless
+ExU1-07,3:26:12,Dariax,Damage,20,,,"10 (20/2) to Stone Golem 4, 20 to Stone Golem 1",1,HDYWTDT
+ExU1-07,3:30:11,Dorian,Athletics,24,18,,,,
+ExU1-07,3:32:57,Dorian,Athletics,16,,,,,
+ExU1-07,3:35:18,Opal,Arcana,15,,,,,
+ExU1-07,3:36:37,Opal,Attack,13,,,,,Disregarded due to advantage
+ExU1-07,3:36:37,Opal,Attack,20,,,,,Dagger with advantage
+ExU1-07,3:36:51,Opal,Other,4,,,,,Bless
+ExU1-07,3:37:01,Opal,Damage,4,,,4 to Stone Golem,,
+ExU1-07,3:37:06,Opal,Damage,7,,,7 to Stone Golem,,
+ExU1-07,3:37:40,Opal,Attack,6,,,,,Disregarded due to advantage
+ExU1-07,3:37:40,Opal,Attack,21,,,,,Dagger with advantage
+ExU1-07,3:39:32,Fearne,Spell Attack,15,,,,,Disregarded due to Fearne's forced reroll
+ExU1-07,3:39:32,Fearne,Spell Attack,,19,,,,Flame Blade with Fearne's forced reroll
+ExU1-07,3:40:11,Fearne,Damage,14,,,14 Fire to Stone Golem,,
+ExU1-07,3:40:43,Fearne,Strength Save,17,,,5 to Fearne,,
+ExU1-07,3:43:12,Orym,Attack,,2,,,,Disregarded due to advantage
+ExU1-07,3:43:12,Orym,Attack,,2,,,,Sword with advantage
+ExU1-07,3:44:40,Orym,Acrobatics,18,,,,,
+ExU1-07,3:44:59,Fearne,Constitution Save,,3,,,,Concentration
+ExU1-07,3:45:34,Opal,Dexterity Save,Unknown,Unknown,,,,Disregarded due to disadvantage
+ExU1-07,3:45:34,Opal,Dexterity Save,4,,,,,With disadvantage
+ExU1-07,3:47:01,Dariax,Healing,5,,,,,"Cure Wounds (1st), Fearne heals 5 points"
+ExU1-07,3:47:36,Dariax,Attack,17,,,,,Spear
+ExU1-07,3:47:58,Dariax,Damage,10,,,44 [22 (8x2+6)x2] to Stone Golem,1,HDYWTDT
+ExU1-07,3:49:57,Fearne,d20,3,,,,,Disregarded
+ExU1-07,3:51:36,Opal,Attack,Unknown,Unknown,,,,Disregarded due to advantage
+ExU1-07,3:51:36,Opal,Attack,13,,,,,Dagger with advantage and Bless
+ExU1-07,3:51:36,Opal,Attack,Unknown,Unknown,,,,Disregarded GM Inspiration
+ExU1-07,3:56:15,Dorian,Damage,13,,,13 to Stone Golem,1,"Shatter, HDYWTDT"
+ExU1-07,3:58:52,Opal,Constitution Save,,4,,,,
